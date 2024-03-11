@@ -9,12 +9,8 @@ brew "bat"
 brew "btop"
 # Emacs dependency management
 brew "cask"
-# More intuitive version of du in rust
-brew "dust"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
-# GitHub command-line tool
-brew "gh"
 # Distributed revision control system
 brew "git"
 # Fast and simple video downloader
@@ -23,14 +19,10 @@ brew "lux"
 brew "neofetch"
 # Theme for zsh
 brew "powerlevel10k"
-# Interpreted, interactive, object-oriented programming language
-brew "python@3.10"
 # File browser
 brew "ranger"
 # Command-line interface for https://speedtest.net bandwidth tests
 brew "speedtest-cli"
-# Internet file retriever
-brew "wget"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
