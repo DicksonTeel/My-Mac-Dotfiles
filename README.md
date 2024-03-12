@@ -9,7 +9,8 @@ Included with my dotfiles is a bash script to automate a chunk of my base softwa
 ## Installer
 - CMD+Space to engage Spotlight Search.
 - Search for Terminal.app & press Enter.
-- Copy/paste & run the codeblock below:
+- Copy/paste & run one of the codeblocks below:
+### Full Install
 ~~~
 cd ~/.config
 curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Full.sh
@@ -17,6 +18,7 @@ chmod +x newMacInstall.sh
 ./newMacInstall.sh
 ~~~
 
+### Minimum Install
 ~~~
 cd ~/.config
 curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Min.sh
