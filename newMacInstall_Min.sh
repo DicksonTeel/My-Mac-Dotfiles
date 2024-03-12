@@ -24,11 +24,8 @@ curl -o ~/.config/zsh/zsh_aliases https://github.com/DicksonTeel/My-Mac-Dotfiles
 # cURL zsh_plugs from My-Mac-Dotfiles repo to ~/.config/zsh
 curl -o ~/.config/zsh/zsh_plugs https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/zsh_plugs
 
-# Make the wezterm directory in .config
-mkdir ~/.config/wezterm
-
 # cURL base wezterm.lua file from My-Mac-Dotfiles repo to ~/.config/wezterm
-curl -o ~/.config/wezterm/.wezterm.lua https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/wezterm.lua
+curl -o ~/.wezterm.lua https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/wezterm.lua
 
 # cURL neofetch_config.conf from My-Mac-Dotfiles repo to ~/.config/neofetch
 curl -o ~/.config/neofetch/config.conf https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/neofetch_config.conf
