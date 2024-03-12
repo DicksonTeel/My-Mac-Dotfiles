@@ -4,10 +4,10 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # cURL Brewfile from My-Mac-Dotfiles repo to ~/.config
-curl -o ~/.config/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile
+curl -o ~/.config/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile_Full
 
 # Install software from Brewfile
-xargs brew install < ~/.config/Brewfile
+xargs brew bundle install < ~/.config/Brewfile
 
 # cURL zshrc_BASE from My-Mac-Dotfiles repo to ~/
 curl -o ~/.zshrc https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/zshrc_BASE
