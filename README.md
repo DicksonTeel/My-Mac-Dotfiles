@@ -25,3 +25,5 @@ curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfile
 chmod +x newMacInstall.sh
 ./newMacInstall.sh
 ~~~
+
+The difference between the Full and Minimum installs is that the Full install has a few extra casks that I use in my personal life, but that would not be necessary on a mobile work machine like a laptop. And if I did come to need those casks, there are functional web pages to work with to acomplish the tasks those cask would cover or I can just add them after the fact.
