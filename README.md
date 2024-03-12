@@ -12,7 +12,14 @@ Included with my dotfiles is a bash script to automate a chunk of my base softwa
 - Copy/paste & run the codeblock below:
 ~~~
 cd ~/.config
-curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall.sh
+curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Full.sh
+chmod +x newMacInstall.sh
+./newMacInstall.sh
+~~~
+
+~~~
+cd ~/.config
+curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Min.sh
 chmod +x newMacInstall.sh
 ./newMacInstall.sh
 ~~~
