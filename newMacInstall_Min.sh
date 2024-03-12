@@ -3,6 +3,10 @@
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# Add Homebrew to the PATH
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/dicksonteel/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
 # cURL Brewfile from My-Mac-Dotfiles repo to ~/.config
 curl -o ~/.config/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile_Min
 
