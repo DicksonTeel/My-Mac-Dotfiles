@@ -9,20 +9,30 @@ brew "bat"
 brew "btop"
 # Emacs dependency management
 brew "cask"
+# More intuitive version of du in rust
+brew "dust"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
+# GitHub command-line tool
+brew "gh"
 # Distributed revision control system
 brew "git"
 # Fast and simple video downloader
 brew "lux"
+# Mac App Store command-line interface
+brew "mas"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Theme for zsh
 brew "powerlevel10k"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.10"
 # File browser
 brew "ranger"
 # Command-line interface for https://speedtest.net bandwidth tests
 brew "speedtest-cli"
+# Internet file retriever
+brew "wget"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
@@ -55,3 +65,10 @@ cask "vivaldi"
 cask "wezterm"
 # Video communication and virtual meeting platform
 cask "zoom"
+mas "Affinity Designer 2", id: 1616831348
+mas "Affinity Photo 2", id: 1616822987
+mas "Affinity Publisher 2", id: 1606941598
+mas "Brother iPrint&Scan", id: 1193539993
+mas "Honeygain", id: 1479049768
+mas "OneDrive", id: 823766827
+mas "Tailscale", id: 1475387142
