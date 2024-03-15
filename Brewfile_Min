@@ -19,8 +19,6 @@ brew "lux"
 brew "neofetch"
 # Theme for zsh
 brew "powerlevel10k"
-# File browser
-brew "ranger"
 # Command-line interface for https://speedtest.net bandwidth tests
 brew "speedtest-cli"
 # Fish-like fast/unobtrusive autosuggestions for zsh
