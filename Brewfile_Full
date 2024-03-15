@@ -13,6 +13,8 @@ brew "cask"
 brew "dust"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
+# GitHub command-line tool
+brew "gh"
 # Distributed revision control system
 brew "git"
 # Fast and simple video downloader
@@ -41,6 +43,8 @@ cask "active-trader-pro"
 cask "discord"
 # Utility to hide menu bar items
 cask "hiddenbar"
+# Software for iLok devices
+cask "ilok-license-manager"
 # Cable-free audio router
 cask "loopback"
 # Knowledge base that works on top of a local folder of plain text Markdown files
