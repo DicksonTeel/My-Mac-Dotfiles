@@ -13,8 +13,6 @@ brew "cask"
 brew "dust"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
-# GitHub command-line tool
-brew "gh"
 # Distributed revision control system
 brew "git"
 # Fast and simple video downloader
