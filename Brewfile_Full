@@ -13,8 +13,6 @@ brew "cask"
 brew "dust"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
-# GitHub command-line tool
-brew "gh"
 # Distributed revision control system
 brew "git"
 # Fast and simple video downloader
@@ -69,6 +67,5 @@ mas "Affinity Designer 2", id: 1616831348
 mas "Affinity Photo 2", id: 1616822987
 mas "Affinity Publisher 2", id: 1606941598
 mas "Brother iPrint&Scan", id: 1193539993
-mas "Honeygain", id: 1479049768
 mas "OneDrive", id: 823766827
 mas "Tailscale", id: 1475387142
