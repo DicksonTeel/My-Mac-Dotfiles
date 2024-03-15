@@ -9,18 +9,26 @@ brew "bat"
 brew "btop"
 # Emacs dependency management
 brew "cask"
+# More intuitive version of du in rust
+brew "dust"
 # Play, record, convert, and stream audio and video
 brew "ffmpeg"
 # Distributed revision control system
 brew "git"
 # Fast and simple video downloader
 brew "lux"
+# Mac App Store command-line interface
+brew "mas"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Theme for zsh
 brew "powerlevel10k"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.10"
 # Command-line interface for https://speedtest.net bandwidth tests
 brew "speedtest-cli"
+# Internet file retriever
+brew "wget"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
@@ -39,5 +47,3 @@ cask "rectangle"
 cask "vivaldi"
 # GPU-accelerated cross-platform terminal emulator and multiplexer
 cask "wezterm"
-# Video communication and virtual meeting platform
-cask "zoom"
