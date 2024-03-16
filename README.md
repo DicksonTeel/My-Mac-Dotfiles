@@ -13,17 +13,17 @@ Included with my dotfiles is a bash script to automate a chunk of my base softwa
 ### Full Install
 ~~~
 cd ~/.config
-curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Full.sh
-chmod +x newMacInstall.sh
-./newMacInstall.sh
+curl -o ~/.config/newMacInstall_Full.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Full.sh
+chmod +x newMacInstall_Full.sh
+./newMacInstall_Full.sh
 ~~~
 
 ### Minimum Install
 ~~~
 cd ~/.config
-curl -o ~/.config/newMacInstall.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Min.sh
-chmod +x newMacInstall.sh
-./newMacInstall.sh
+curl -o ~/.config/newMacInstall_Min.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Min.sh
+chmod +x newMacInstall_Min.sh
+./newMacInstall_Min.sh
 ~~~
 
 The difference between the Full and Minimum installs is that the Full install has a few extra casks that I use in my personal life, but that would not be necessary on a mobile work machine like a laptop. And if I did come to need those casks, there are functional web pages to work with to acomplish the tasks those cask would cover or I can just add them after the fact.
