@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Homebrew
-$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
 
 # Add Homebrew to the PATH
 (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/dicksonteel/.zprofile
