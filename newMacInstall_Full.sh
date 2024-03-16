@@ -16,8 +16,11 @@ xargs brew bundle install < ~/.config/Brewfile
 # cURL zshrc_BASE from My-Mac-Dotfiles repo to ~/
 curl -o ~/.zshrc https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/zshrc_BASE
 
-# Make the zsh directory in .config
+# Make the zsh, neofetch, atuin, and btop directories in .config
 mkdir ~/.config/zsh
+mkdir ~/.config/neofetch
+mkdir ~/.config/atuin
+mkdir ~/.config/btop
 
 # cURL zsh_initCommands from My-Mac-Dotfiles repo to ~/.config/zsh
 curl -o ~/.config/zsh/zsh_initCommands https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/zsh_initCommands
