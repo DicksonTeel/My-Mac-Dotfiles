@@ -12,6 +12,9 @@ Included with my dotfiles is a bash script to automate a chunk of my base softwa
 - Copy/paste & run one of the codeblocks below:
 ### Full Install
 ~~~
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/dicksonteel/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 mkdir ~/.config
 cd ~/.config
 curl -o ~/.config/newMacInstall_Full.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Full.sh
@@ -21,6 +24,9 @@ sudo ./newMacInstall_Full.sh
 
 ### Minimum Install
 ~~~
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/dicksonteel/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 mkdir ~/.config
 cd ~/.config
 curl -o ~/.config/newMacInstall_Min.sh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall_Min.sh
