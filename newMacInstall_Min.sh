@@ -4,7 +4,7 @@
 curl -o ~/.config/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile_Min
 
 # Install software from Brewfile
-xargs brew bundle install < ~/.config/Brewfile
+brew bundle install < ~/.config/Brewfile
 
 # cURL zshrc_BASE from My-Mac-Dotfiles repo to ~/
 curl -o ~/.zshrc https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/zshrc_BASE
