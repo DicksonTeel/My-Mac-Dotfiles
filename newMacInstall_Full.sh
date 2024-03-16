@@ -1,17 +1,10 @@
 #!/bin/bash
 
-# Install Homebrew
-# /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-# Add Homebrew to the PATH
-(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/dicksonteel/.zprofile
-eval "$(/opt/homebrew/bin/brew shellenv)"
-
 # cURL Brewfile from My-Mac-Dotfiles repo to ~/.config
 curl -o ~/.config/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile_Full
 
 # Install software from Brewfile
-xargs brew bundle install < ~/.config/Brewfile
+brew bundle install < ~/.config/Brewfile
 
 # cURL zshrc_BASE from My-Mac-Dotfiles repo to ~/
 curl -o ~/.zshrc https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/zshrc_BASE
@@ -34,10 +27,10 @@ curl -o ~/.config/zsh/zsh_plugs https://github.com/DicksonTeel/My-Mac-Dotfiles/b
 # cURL base wezterm.lua file from My-Mac-Dotfiles repo to ~/.config/wezterm
 curl -o ~/.wezterm.lua https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/wezterm.lua
 
-# cURL neofetch_config.conf from My-Mac-Dotfiles repo to ~/.config/neofetch
+# cURL base neofetch_config.conf from My-Mac-Dotfiles repo to ~/.config/neofetch
 curl -o ~/.config/neofetch/config.conf https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/neofetch_config.conf
 
-# cURL atuin_config.toml from My-Mac-Dotfiles repo to ~/.config/atuin
+# cURL base atuin_config.toml from My-Mac-Dotfiles repo to ~/.config/atuin
 curl -o ~/.config/atuin/config.toml https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/atuin_config.toml
 
 # cURL base_btop.conf from My-Mac-Dotfiles repo to ~/.config/btop
