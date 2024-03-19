@@ -45,6 +45,8 @@ cask "proton-drive"
 cask "pycharm-ce"
 # Move and resize windows using keyboard shortcuts or snap areas
 cask "rectangle"
+# Licenses manager for Steinberg Licensing
+cask "steinberg-activation-manager"
 # Web browser with built-in email client focusing on customization and control
 cask "vivaldi"
 # GPU-accelerated cross-platform terminal emulator and multiplexer
