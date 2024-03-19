@@ -57,6 +57,8 @@ cask "pycharm-ce"
 cask "rectangle"
 # Music streaming service
 cask "spotify"
+# Licenses manager for Steinberg Licensing
+cask "steinberg-activation-manager"
 # Virtual machines UI using QEMU
 cask "utm"
 # Web browser with built-in email client focusing on customization and control
