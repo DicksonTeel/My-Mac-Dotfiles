@@ -1,0 +1,86 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+# Improved shell history for zsh, bash, fish and nushell
+brew "atuin"
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
+# Interface bandwidth monitor
+brew "bmon"
+# Resource monitor. C++ version and continuation of bashtop and bpytop
+brew "btop"
+# Emacs dependency management
+brew "cask"
+# More intuitive version of du in rust
+brew "dust"
+# Play, record, convert, and stream audio and video
+brew "ffmpeg"
+# Distributed revision control system
+brew "git"
+# Fast and simple video downloader
+brew "lux"
+# Mac App Store command-line interface
+brew "mas"
+# Fast, highly customisable system info script
+brew "neofetch"
+# Theme for zsh
+brew "powerlevel10k"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.10"
+# File browser
+brew "ranger"
+# Static analysis and lint tool, for (ba)sh scripts
+brew "shellcheck"
+# Command-line interface for https://speedtest.net bandwidth tests
+brew "speedtest-cli"
+# Internet file retriever
+brew "wget"
+# Fish-like fast/unobtrusive autosuggestions for zsh
+brew "zsh-autosuggestions"
+# Fish shell like syntax highlighting for zsh
+brew "zsh-syntax-highlighting"
+# Trading platform
+cask "active-trader-pro"
+# Voice and text chat software
+cask "discord"
+# Open Source Multimedia Framework
+cask "gstreamer-runtime"
+# Utility to hide menu bar items
+cask "hiddenbar"
+# Software for iLok devices
+cask "ilok-license-manager"
+# Cable-free audio router
+cask "loopback"
+# Knowledge base that works on top of a local folder of plain text Markdown files
+cask "obsidian"
+# Document editor
+cask "onlyoffice"
+# Client for Proton Drive
+cask "proton-drive"
+# IDE for Python programming - Community Edition
+cask "pycharm-ce"
+# Move and resize windows using keyboard shortcuts or snap areas
+cask "rectangle"
+# Music streaming service
+cask "spotify"
+# Licenses manager for Steinberg Licensing
+cask "steinberg-activation-manager"
+# Virtual machines UI using QEMU
+cask "utm"
+# Vim Inspired Electron Browser
+cask "vieb"
+# Web browser with built-in email client focusing on customization and control
+cask "vivaldi"
+# GPU-accelerated cross-platform terminal emulator and multiplexer
+cask "wezterm"
+# Compatibility layer to run Windows applications
+cask "wine-stable"
+# Video communication and virtual meeting platform
+cask "zoom"
+mas "Affinity Designer 2", id: 1616831348
+mas "Affinity Photo 2", id: 1616822987
+mas "Affinity Publisher 2", id: 1606941598
+mas "Brother iPrint&Scan", id: 1193539993
+mas "Honeygain", id: 1479049768
+mas "OneDrive", id: 823766827
+mas "Tailscale", id: 1475387142
