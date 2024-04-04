@@ -39,18 +39,6 @@ brew "wget"
 brew "zsh-autosuggestions"
 # Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
-# Trading platform
-cask "active-trader-pro"
-# Voice and text chat software
-cask "discord"
-# Open Source Multimedia Framework
-cask "gstreamer-runtime"
-# Utility to hide menu bar items
-cask "hiddenbar"
-# Software for iLok devices
-cask "ilok-license-manager"
-# Cable-free audio router
-cask "loopback"
 # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
 # Document editor
@@ -61,26 +49,8 @@ cask "proton-drive"
 cask "pycharm-ce"
 # Move and resize windows using keyboard shortcuts or snap areas
 cask "rectangle"
-# Music streaming service
-cask "spotify"
-# Licenses manager for Steinberg Licensing
-cask "steinberg-activation-manager"
-# Virtual machines UI using QEMU
-cask "utm"
-# Vim Inspired Electron Browser
-cask "vieb"
 # Web browser with built-in email client focusing on customization and control
 cask "vivaldi"
 # GPU-accelerated cross-platform terminal emulator and multiplexer
 cask "wezterm"
-# Compatibility layer to run Windows applications
-cask "wine-stable"
-# Video communication and virtual meeting platform
-cask "zoom"
-mas "Affinity Designer 2", id: 1616831348
-mas "Affinity Photo 2", id: 1616822987
-mas "Affinity Publisher 2", id: 1606941598
-mas "Brother iPrint&Scan", id: 1193539993
-mas "Honeygain", id: 1479049768
-mas "OneDrive", id: 823766827
 mas "Tailscale", id: 1475387142
