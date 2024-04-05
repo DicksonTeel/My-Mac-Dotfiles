@@ -28,7 +28,7 @@ brew "powerlevel10k"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.10"
 # File browser
-brew "ranger"
+brew "xplr"
 # Static analysis and lint tool, for (ba)sh scripts
 brew "shellcheck"
 # Command-line interface for https://speedtest.net bandwidth tests
