@@ -8,13 +8,13 @@ set dir=~/.cache/vim/swaps
 syntax on
 
 " Turn on spellcheck
-set spell
+" set spell
 
 " Show line numbers
-set number
+" set number
 
 " Show line number on the current line and relative numbers on other lines
-" set relativenumber
+set relativenumber
 
 " Show file stats
 set ruler
