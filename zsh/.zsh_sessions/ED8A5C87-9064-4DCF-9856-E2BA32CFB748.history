@@ -1,0 +1,1002 @@
+home
+cd .ssh
+ls
+cd .config
+home
+ls
+vim .zshrc
+exit
+ssh 100.70.247.147
+exit
+ssh 100.70.247.147
+exit
+ssh macbook
+exit
+ls
+cd .vim
+ls
+home
+cd .config
+ls
+home
+ls
+vim .vimrc
+celar
+clear
+ls
+exit
+clear
+ls
+vim .zshrc
+clear
+update
+clear
+time
+clear
+df
+clear
+ls
+cd .zsh
+ls
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+ls
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+home
+clear
+ls
+df -h
+du -h
+clear
+ls
+df
+clear
+echo $ZSH_VERSION
+brew search zsh
+brew install zsh-autosuggestions
+brew install zsh-syntax-highlighting
+ls
+cd .zsh
+ls
+brew uninstall zsh-syntax-highlighting
+l
+ls
+brew uninstall zsh-autosuggestions
+clear
+update
+home
+clear
+clear
+update
+cleanup
+clear
+brew search hiddenbar
+brew install --cask hiddenbar
+update
+clear
+exit
+exit
+brew ls
+brew search warp
+ls
+default write com.apple.screencapture location ~/Pictures
+write com.apple.screencapture location ~/Pictures
+clear
+ls 
+clear
+ps
+curl wttr.in
+clear
+curl wttr.in/Baltimore
+clear
+tracerout
+traceroute
+cd .config
+ls
+home
+cd .zsh
+ls
+home
+brew install mtr
+clear
+exit
+exit
+mtr 1.1.1.1
+mtr
+brew ls
+man mtr
+mtr 1.1.1.1
+brew ls
+sudo
+clear
+sudo mtr 1.1.1.1
+man mtr
+cd /usr.local/Cellar/mtr
+cd /usr/local/Cellar/mtr
+ls
+cd 0.95
+ls
+cd sbin
+ls
+cp mtr /usr/local/bin
+clear
+home
+nettest
+exit
+nettest
+exit
+nettest
+sudo mtr 1.1.1.1
+sudo mtr google.com
+brew uninstall mtr
+cd /usr/local/bin
+ls
+sudo rm mtr
+ls
+exit
+brew search dice
+clea
+clear
+exit
+vim .zshrc
+exit
+ls
+cd .config
+ls
+vim apps.txt
+vim brewApps.txt
+ls
+vim brewApps.txt
+exit
+cd .config
+ls
+vim brewApps.txt
+clear
+ls
+xargs brew install < brewFormulae.txt
+clear
+xargs brew install < brewFormulae.txt
+ls
+vim brewFormulae.txt
+clear
+exit
+clear
+brew search zsh
+brew info
+brew
+brew config
+clear
+brew search zsh
+brew info zsh-navigation-tools
+clear
+brew search bat
+celar
+clear
+ls
+vim .zshrc
+xargs brew install < brewApps.txt
+cd .config
+ls
+xargs brew install < brewApps.txt
+ls
+vim brewFormulae.txt
+clear
+ls
+vim brewFormulae.txt
+ls
+home
+ls
+vim .zshrc
+exit
+brew ls
+traceroute 1.1.1.1
+traceroute -h 1.1.1.1
+brew uninstall mtr
+exit
+ls
+bat .zshrc
+vim .zshrc
+clear
+bat .zshrc
+brew search roll
+brew info roll
+cat .zshrc
+cd /usr/local/bin\
+wget https://raw.githubusercontent.com/rodneydup/roll/master/roll\
+chmod +x roll
+exit
+clear
+roll 3d10
+clear
+ls
+clear
+clear
+ls
+cd .config
+ls
+vim brewFormulae.txt
+brew install powerlevel10k
+exit
+clear
+ls
+vim .zshrc
+exit
+ls
+vim .zshrc
+p10k config
+p10k configure
+brew ls
+clear
+cd .config
+ls
+cat brewFormulae.txt
+home
+ls
+cat .zshrc
+exit
+clear
+ls
+ls -l
+ls
+clear
+clear
+exit
+exit
+clear
+vim .zshrc
+clear
+exit
+ls
+vim .zshrc
+p10k config
+p10k configure
+clear
+ls
+cat .p10k.zsh
+bat .p10k.zsh
+brew info starship
+clear
+ls
+cat .p10k.zsh
+cat .p10k.zsh
+clear
+brew search warp
+brew install --cask warp
+update
+clear
+cat .p10k.zsh
+clear
+vim .p10k.zsh
+clear
+vim .p10k.zsh
+clear
+clear
+ls
+vim .p10k.zsh
+exit
+clear
+ls
+cat .p10k.zsh
+exit
+clear
+cat .p10k.zsh
+clear
+cat .p10k.zsh
+clear
+clear
+ls
+cd .zsh
+ls
+home
+p10k configure
+clear
+p10k configure
+clear
+ls
+clear
+clear
+vim .zshrc
+mv .wezterm.lua ~/.config/wezterm/
+mv .wezterm.lua ~/.config/wezterm/
+ln -sf ~/.config/wezterm/.wezterm.lua ~/
+mv .zshrc ~/.config/zsh/
+ln -sf ~/.config/zsh/.zshrc ~/
+mv .zsh_history ~/.config/zsh/
+ln -sf ~/.config/zsh/.zsh_history ~/
+mv .zsh_sessions ~/.config/zsh/
+ln -sf ~/.config/zsh/.zsh_sessions ~/
+mv .p10k.zsh ~/.config/zsh/
+ln -sf ~/.config/zsh/.p10k.zsh ~/
+clear
+rmdir .zsh
+sudo rmdir .zsh
+clear
+mv .ssh ~/.config/
+ln -sf ~/.config/.ssh ~/
+clear
+cd /usr/local/share
+ls
+mv zsh-autosuggestions ~/.config/zsh/plugins
+ln -sf ~/.config/zsh/plugins/zsh-autosuggestions usr/lo/share
+ln -sf ~/.config/zsh/plugins/zsh-autosuggestions usr/local/share
+ls
+ln -sf ~/.config/zsh/plugins/zsh-autosuggestions /usr/local/share
+mv zsh-syntax-highlighting ~/.config/zsh/plugins
+ln -sf ~/.config/zsh/plugins/zsh-syntax-highlighting /usr/local/share
+ls
+ls -l
+clear
+ls
+mv powerlevel10k ~/.config/zsh/plugins
+ln -sf ~/.config/zsh/plugins/powerlevel10k /usr/local/share
+ls
+ls -l
+clear
+exit
+clear
+cat .zshrc
+ls
+clear
+ls
+ls -l
+clear
+ls
+cd .zsh
+ls
+clear
+ls
+home
+clear
+ls
+clear
+ls
+clear
+ls -l
+clear
+ls
+clear
+ls
+ls -l
+clear
+ls
+clear
+ls -l
+clear
+ls
+clear
+ls
+clear
+ls
+cd .config
+ls
+mkdir SSH
+ls
+rmdir SSH
+mkdir ssh
+ls
+home
+rmdir ssh
+clear
+cd .config
+rmdir ssh
+clear
+ls
+home
+clear
+ls
+clear
+ls
+ls -l
+clear
+cd .config
+ls
+cd zsh
+ls
+clear
+ls
+mkdir plugins
+cd plugins
+ls
+ls
+ls
+ls -l
+clear
+home
+vim .zshrc
+exit
+bat .zshrc
+exit
+cd .config/zsh
+ls
+vim .zshrc
+exit
+exit
+exir
+exit
+cd /usr/local/share
+ls
+ls -l
+rmdir zsh-autosuggestions
+rm zsh-autosuggestions
+rm zsh-syntax-highlighting
+rm powerlevel10k
+clear
+home
+cd .config
+ls
+xargs brew install < brewFormulae.txt
+xargs brew reinstall < brewFormulae.txt
+exit
+cd .config/zsh
+vim .zshrc
+exit
+nettest
+exit
+nettest
+exit
+cd .config
+vim brewApps.txt
+exit
+ls
+cd plugins
+ls
+home
+clear
+update
+clear
+update
+cleanup
+clear
+brew ls
+brew uninstall --cask warp
+clear
+ls
+cd .config
+ls
+vim brewFormulae.txt
+exit
+homw
+home
+clear
+brew search affinity
+brew search audio
+brew info audiopfile
+brew info audiofile
+brew search battery
+brew search dante
+brew info dante
+brew search resolve
+brew search steinberg
+brew search honey
+brew search iLok
+brew search mti
+brew search drive
+brew search qlab
+brew search remote
+brew search sound
+brew info soundtoys
+brew search steam
+brew search tail
+brew search yamaha
+clear
+nettest
+clear
+vim .zshrc
+brew search trello
+clear
+vim .zshrc
+nettest
+vim .zshrc
+nettest
+vim .zshrc
+vim .zshrc
+exit
+exit
+ls
+ls
+exit
+ffmpeg -i "Randy Feltface: Feltopia (Full Comendy Special).webm" "Randy Feltface - Feltopia.mp4"
+quit
+exit
+brew info wifiman
+df
+cd .config
+ls
+exit
+cd .config
+ls
+home
+vim .zshrc
+cd .config
+vim brewFormulae.txt
+cd .config
+vim brewApps.txt
+l
+ls
+vim .zshrc
+clear
+vim newMacInstall.sh
+ls
+brew ls
+update
+cd /Volumes/"Glyph 2TB"/"My Library"/Video
+ls
+ffmpeg
+ffmpeg -i "Randy Felface - Feltopia.webm" RF-Feltopia.mp4
+ffmpeg -i RandyFeltface-Feltopia.webm RandyFeltface-Feltopia.mp4
+exit
+clear
+cd Desktop
+clear
+home
+ls
+cd Downloads
+ls
+update
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/Youtube/"No Rolles Barred"
+home
+vim .zshrc
+exit
+pwd
+ls
+clear
+ls
+clear
+cat .zshrc
+clear
+cls
+clear
+ls
+cat newMacInstall.sh
+clear
+brew search zsh
+clear
+exit
+home
+brew bundle dump -describe
+ls
+brew bundle dump --describe
+ls
+vim Brewfile
+cd .config
+ls
+vim brewApps.txt
+home
+clear
+ls
+vim .zshrc
+vim brewFormulae.txt
+vim brewApps.txt
+vim brewFormulae.txt
+home
+cd .config
+clear
+vim Brewfile
+clear
+cat .zshrc
+exit
+ls
+ls
+exit
+update
+cleanup
+ls
+exit
+ls
+vim .zsh_initCommands
+vim zsh_initCommands
+exit
+cd .config
+ls
+rm brewApps.txt && rm brewFormulae.txt
+ls
+clear
+ls
+gh repo clone DicksonTeel/My-Mac-Dotfiles
+git clone https://github.com/DicksonTeel/My-Mac-Dotfiles.git
+curl -o ~/Downloads https://raw.githubusercontent.com/DicksonTeel/My-Mac-Dotfiles/main/Brewfile
+curl -o ~/Downloads/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile
+cd ~/Downloads
+cat newMacInstall.sh
+cat Brewfile
+cd ~/.config
+l
+ls
+cd zsh
+ls
+vim .zsh_aliases
+vim zsh_aliases
+vim zsh_plugs
+ls
+clear
+ls
+home
+cd .config
+ls
+xargs brew install < Brewfile
+clear
+cd .ssh
+cat known_hosts
+ssh macbook
+clear
+cat config
+exit
+cd zsh
+ls
+vim .zshrc
+vim .zshrc
+exit
+ls
+home
+ls
+vim newMacInstall.sh
+vim newMacInstall.sh
+exit
+cat wezterm.lua
+exit
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/Youtube/"No Rolles Barred"
+lux -p "https://youtube.com/playlist?list=PLQBGXhGots81MO5NLArB4xelKqRhREzoZ&si=p0sT-n-fih6BygCC"
+home
+clear
+cd /Volumes/"Glyph 2TB"/"My Library"/Video
+ls
+cd Youtube
+lux "https://www.youtube.com/watch?v=wjRdjHVZ9fE"
+mkdir "My DIY Playlist"
+cd "My DIY Playlist"
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5OV_V76xVOp-J9tnROyiRGh&si=kfkTLcWW9R9G9bHJ"
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5OV_V76xVOp-J9tnROyiRGh&si=kfkTLcWW9R9G9bHJ"
+ls
+ffmpeg -i "Build Your Own 150 ohm XLR Plug for Testing Preamp Noise.webm" "Build Your Own 150 ohm XLR Plug for Testing Preamp Noise.mp4"
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5OV_V76xVOp-J9tnROyiRGh&si=kfkTLcWW9R9G9bHJ"
+ffmpeg -i "How to build a PC, the last guide youâ€ƒ¹ll ever need "How to build a PC, the last guide youâ€ƒ¹ll ever need!.mp4"
+ffmpeg -i "How to build a PC, the last guide youâ€ƒ¹ll ever need.webm" "How to build a PC, the last guide youâ€ƒ¹ll ever need.mp4"
+cd ..
+exit
+cat .zshrc
+cd .config/zsh
+ls
+vim zsh_aliases
+cd ..
+cd zsh
+vim zsh_aliases
+home
+brew reinstall ranger
+update
+ranger
+clear
+ranger
+exit
+exit
+clear
+exit
+home
+clear
+ls
+vim newMacInstall.sh
+cat newMacInstall.sh
+clear
+clear
+cd .config
+vim testScript.zsh
+chmod +x testScript.zsh
+testScript.zsh
+./testScript.zsh
+home
+./testScript.zsh
+clear
+ranger
+cd .config
+ranger
+ls
+curl -o ~/.config/newMacInstall.zsh https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/newMacInstall.zsh && chmod +x newMacInstall.zsh
+./newMacInstall.zsh
+ls
+ranger
+ls
+exit
+clear
+brew search fetch
+brew info onefetch
+brew info pfetch
+exit
+cat .zshrc
+cat .zshrc
+cd .config/zsh
+ls
+cat zsh_aliases
+exit
+ls
+cd .config/zsh
+ls
+cat zsh_aliases
+brew search powerlevel
+exit
+brew search drop
+brew info dropshelf
+brew info dropzone
+clear
+clear
+ls
+exit
+update
+cd .config/zsh
+vim zsh_plugs
+vim zsh_plugs
+exit
+ranger
+exit
+cd /Volumes/"Glyph 2TB"/"My Library"/Video
+ls
+cd Youtube
+ls
+mkdir ASMR
+cd ASMR
+ls
+lux -p "https://www.youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq"
+lux -p "https://www.youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq"
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq&si=SO3RZt13ogtzixXe"
+lux -p "https://www.youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq"
+brew reinstall lux
+lux "https://youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq&si=dfszcERIro2wV-rP"
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq&si=dfszcERIro2wV-rP"
+exit
+exit
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/Youtube/ASMR
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5OI42Hcn6lPEZyAZUKLhkoq&si=dfszcERIro2wV-rP"
+lux "https://youtu.be/LwmqmtJrldI?si=QZQ3x-NEZO-NNYI5"
+lux "https://youtu.be/6Yzv8uY5WWI?si=i7gy5I-QU_GToqKP"
+lux "https://youtu.be/74w8WvrrU1U?si=dreSNePeU07P5Rw5"
+lux "https://youtu.be/39dTsAPdeKY?si=N0tAjjWED_i8_avS"
+brew install mas
+mas outdated
+mas list
+lux "https://youtu.be/ByoAFAYHbWk?si=dj1X7u17Zn058HH2"
+exit
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/Youtube/ASMR
+lux "https://youtu.be/TLZv8OlxwXo?si=Luq_9gUthhOYUhsW"
+lux "https://youtu.be/nVYqAPPec9I?si=-vuGphwDrZPK2DSU"
+lux "https://youtu.be/psef_PqTpvE?si=PoOMscj9Hq_lFYOt"
+lux "https://youtu.be/WiQtICbHhmU?si=wwIG4qHFhutOHvss"
+exit
+open htpps://www.twitch.tv/bunnyayu
+open https://www.twitch.tv/bunnyayu
+exit
+ls
+update
+clear
+exit
+open https://www.twitch.tv/harukakaribu
+clear
+exot
+exit
+cd BunnyAyu
+ls
+ffmpeg -i "ASMR Brushing Away Your Worries âƒ¹ƒ.webm" "ASMR Brushing Away Your Worries âƒ¹ƒ.mp4"
+ls
+ffmpeg -i "ASMR Oil Ear Massage ðƒ¿¦ƒ« 3DIO Free Space Pro ll.webm" "ASMR Oil Ear Massage ðƒ¿¦ƒ« 3DIO Free Space Pro ll.mp4" && ffmpeg -i "ASMR lap massage ðƒ¿ƒ¬ƒ¹ 3DIO Free Space Pro ll.webm" "ASMR lap massage ðƒ¿ƒ¬ƒ¹ 3DIO Free Space Pro ll.mp4"
+ls
+ranger
+parent
+ls
+ranger
+ls
+cd Nananightray
+ls
+ffmpeg -i "ASMR âƒ¸¾ ðƒ½ƒ°ƒ±ðƒ½ƒ°ƒ¾ðƒ½ƒ°¥ðƒ½ƒ°ƒºðƒ½ƒ°± ðƒ½ƒ°ƒ®ðƒ½ƒ°§ ðƒ½ƒ°ƒ¬ðƒ½ƒ°² ðƒ½ƒ°ƒ«ðƒ½ƒ°ƒºðƒ½ƒ°© [head massage, fluffy mic scratching, on my lap] Roleplay.webm" "ASMR âƒ¸¾ ðƒ½ƒ°ƒ±ðƒ½ƒ°ƒ¾ðƒ½ƒ°¥ðƒ½ƒ°ƒºðƒ½ƒ°± ðƒ½ƒ°ƒ®ðƒ½ƒ°§ ðƒ½ƒ°ƒ¬ðƒ½ƒ°² ðƒ½ƒ°ƒ«ðƒ½ƒ°ƒºðƒ½ƒ°© [head massage, fluffy mic scratching, on my lap] Roleplay.mp4" && ffmpeg -i "ASMR âƒ¸¾ ðƒ½ƒ²ƒ®ðƒ½ƒ²‚ðƒ½ƒ²ƒ´ðƒ½ƒ²ƒ´ðƒ½ƒ²‚ðƒ½ƒ²ƒ¨ðƒ½ƒ²ƒªðƒ½ƒ²ƒ¯ðƒ½ƒ²ƒ¨ & ðƒ½ƒ²ƒ¤ðƒ½ƒ²ƒ­ðƒ½ƒ²ƒ¦ðƒ½ƒ²‚ðƒ½ƒ²ƒ¯ðƒ½ƒ²ƒªðƒ½ƒ²ƒ¯ðƒ½ƒ²ƒ¨ ðƒ½ƒ²ƒºðƒ½ƒ²ƒ°ðƒ½ƒ²ƒ¶ðƒ½ƒ²ƒ³ ðƒ½ƒ±¬ðƒ½ƒ²‚ðƒ½ƒ²ƒ³ðƒ½ƒ²ƒ´ [3Dio ear massage with oily hands & q-tip cleaning].webm" "ASMR âƒ¸¾ ðƒ½ƒ²ƒ®ðƒ½ƒ²‚ðƒ½ƒ²ƒ´ðƒ½ƒ²ƒ´ðƒ½ƒ²‚ðƒ½ƒ²ƒ¨ðƒ½ƒ²ƒªðƒ½ƒ²ƒ¯ðƒ½ƒ²ƒ¨ & ðƒ½ƒ²ƒ¤ðƒ½ƒ²ƒ­ðƒ½ƒ²ƒ¦ðƒ½ƒ²‚ðƒ½ƒ²ƒ¯ðƒ½ƒ²ƒªðƒ½ƒ²ƒ¯ðƒ½ƒ²ƒ¨ ðƒ½ƒ²ƒºðƒ½ƒ²ƒ°ðƒ½ƒ²ƒ¶ðƒ½ƒ²ƒ³ ðƒ½ƒ±¬ðƒ½ƒ²‚ðƒ½ƒ²ƒ³ðƒ½ƒ²ƒ´ [3Dio ear massage with oily hands & q-tip cleaning].mp4"
+parent
+ranger
+ls
+ranger
+exit
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/Youtube/ASMR
+ls
+lux "https://youtu.be/R3_ub-K3S78?si=-yEAFMVhSBp9-9-9"
+lux "https://youtu.be/zv_ztMHKmrs?si=y8EpyXT_et_z54ai" && lux "https://youtu.be/3qibjLjojow?si=txB1ARN6I6arlbCg" && lux "https://youtu.be/bxnwR43mmCU?si=wVdwNHaShj6OzicP" && lux "https://youtu.be/ctlawiEsLzs?si=3EWm5JrZ49kWBFMx" && lux "https://youtu.be/atQbW7WV9nw?si=61VgrDQKePBIoVfN" && lux "https://youtu.be/AwLL-wZU8cE?si=Rc9W2g0tS-obDyyy" && lux "https://youtu.be/-ZiTDSxHzfc?si=eTr74d9yDNpNaqkH"
+lux "https://youtu.be/_Enoz2YZVCM?si=2KZfZtI1z0R7xSQL" && lux "https://youtu.be/ehpOt7oX1gk?si=fjlkcmQGTE-VaVEV" && lux "https://youtu.be/9jA_EGI2oQg?si=q3sl9PCCsxWEy1Oe"
+lux "https://youtu.be/B7zE0NVz18c?si=-zyR4l8fJVLl8fXS" && lux "https://youtu.be/0AVAnJfdDhY?si=bUuGFvKqF6dDDuvr" && lux "https://youtu.be/m0-48kG8dN0?si=lNYoD9o8SACjZsXL" && lux "https://youtu.be/eR-DDiEI9Ec?si=XeyevcBjZp5OPAJ-" && lux "https://youtu.be/MfWMLL6Is-U?si=DKRq7b99xgYuDPAK"
+lux "https://youtu.be/9s8qAr51JqE?si=TEYC7DJRSILHMlpx" && lux "https://youtu.be/KrbPNYDwYSM?si=AhVHhwl7GaHInLh5" && lux "https://youtu.be/VPR1_s9fJ1g?si=4gkM0qhZ59xsdJQF" && lux "https://youtu.be/gKqdSSzKboo?si=x4GrXUd_p1lfhV10" && lux "https://youtu.be/jgM8Zo-0VDE?si=qs8s4rHDY4JtUAmP" && lux "https://youtu.be/jScCfTu6yNM?si=rMN-0MqeQ9B4hL6z" && lux "https://youtu.be/1W0uS4m7yMs?si=8tH-0cIbdNA-Dtjz"
+lux "https://youtu.be/1W0uS4m7yMs?si=8tH-0cIbdNA-Dtjz"
+exit
+lux "https://youtu.be/jgM8Zo-0VDE?si=qs8s4rHDY4JtUAmP" && lux "https://youtu.be/jScCfTu6yNM?si=rMN-0MqeQ9B4hL6z"
+lux "https://youtu.be/jScCfTu6yNM?si=rMN-0MqeQ9B4hL6z"
+exit
+mas list
+mas outdated
+brew ls
+exit
+home
+brew ls
+brew search localsend
+cd BunnyAyu
+ls
+lux "https://youtu.be/Xuz2D_cPbaU?si=B3nYcPHt9nPDMHrV" && lux "https://youtu.be/Sk0OwnvCbe8?si=xiMuBdgxOF8WBDjl" && lux "https://youtu.be/1LjspRZI7fo?si=bP13UlSfaiIpwl0P"
+parent
+parent
+parent
+mkdir Special
+cd Special
+lux -p "https://www.xvideos.com/favorite/73406197/blowjobs_and_titjobs"
+lux "https://www.xvideos.com/video36817433/japanese_teen?pl=73406197&plname=blowjobs_and_titjobs"
+lux "https://www.xvideos.com/video32352345/japanese_teacher_gives_a_valuable_lesson_at_the_blackboard?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video38590707/japenese_sucks_teacher_dick?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video8221201/onlyteenbj_young_and_new_girl_next_door_blondie_pov_blowjob?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video47009581/onlyteenblowjobs_aria_lee_pov_dick_sucking_practice_on_your_cock?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video56000619/onlyteenblowjobs_-_cute_teen_is_not_so_innocent?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video51500901/relentless_teen_throat_fucking_extreme_rough_and_sloppy_facefuck._cum_swallowing_humiliation?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video61232085/throated_-_blonde_cocksucker_leah_lee_s_first_dick?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video61996105/throated_-_rachel_rivers_raunchy_and_intense_throat_fuck?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video61664909/last_call_sucks_but_so_does_she_-_1000facials?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video49587363/blowsbest_-_cause_loves_you_so_much_?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video54929947/throated_-_joseline_kelly_looks_so_hot_gagging_on_cock?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video51359997/throated_face_fucking_queen?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video59772313/blowpass_-_wild_latina_hime_marie_gets_wet_from_sloppy_blowjob?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video50484315/1000facials_spit_party_with_nora_ivy?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video53150395/3/mischievous_barely_legal_gf_gets_amorous_pounding?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video3534333/raver_teen_casana_lei_shows_how_she_gives_blowjobs?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video3699644/cute_teen_missy_sweet_giving_blow_job_and_hand_job?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video3963044/skinny_blonde_cutie_rikki_six_swallows_a_cock_deep?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video4150199/big_titted_blonde_bombshell_rikki_six_gets_facialed?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video8039960/throated_chocolate_tatooed_skin_diamond_gets_her_facefuck_hard_?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video4149972/japanese_pornstar_asa_akira_eagerly_takes_a_facial?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video39757865/1000facials_latina_teen_works_big_cock_for_that_cum_?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video46025525/1000facials_hungry_blonde_latina_snacks_on_meaty_cock_and_cumshot?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video4150153/petite_redhead_mae_olson_getting_a_cum_facial?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video56415515/blowpass_-_busty_latina_gf_loses_bet?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video39316328/blair_williams_facefucked_and_titty_fucked_by_roomie_that_facials_?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video36224125/brooklyn_chase_s_2_fav_things_tit_fucking_and_sucking_dick?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video52337099/blowpass_my_step_sister_sucked_my_dick_while_camming?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video45241977/throated_split_tongue_leigh_raven_gives_a_crazy_blowjob_cumshot_?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video56274405/throated_-_latina_milf_slurps_and_swallows_cock_whole?pl=73406197&plname=blowjobs_and_titjobs" && lux "https://www.xvideos.com/video42420383/1000facials_horny_teen_hannah_hays_loves_sucking_cock_and_facials?pl=73406197&plname=blowjobs_and_titjobs"
+lux "https://youtu.be/jgM8Zo-0VDE?si=qs8s4rHDY4JtUAmP"
+ls
+ffmpeg -i "ASMR Brain Melting Oil Ear Massage & Visuals ~ Your Ears Are MINE â€ƒ®âƒ¹ƒâ€§â‚ƒªËƒº (4K).webm" "ASMR Brain Melting Oil Ear Massage & Visuals ~ Your Ears Are MINE â€ƒ®âƒ¹ƒâ€§â‚ƒªËƒº (4K).mp4" && ffmpeg -i "ASMR Pure Twin Earlicking - Double Ear Noms for Double Tingles.webm" "ASMR Pure Twin Earlicking - Double Ear Noms for Double Tingles.mp4" && ffmpeg -i "ASMR Slow Earlicking on 100% Sensitivity - Intense, Sticky Earnoms on MAX Sensitivity w  Delay.webm" "ASMR Slow Earlicking on 100% Sensitivity - Intense, Sticky Earnoms on MAX Sensitivity w  Delay.mp4" && ffmpeg -i "ASMR Super SLOW Pure EAR NOMS For STICKY Tingles.webm" "ASMR Super SLOW Pure EAR NOMS For STICKY Tingles.mp4"
+ls
+mkdir "ShadowOfSilence ASMR"
+lux "https://youtu.be/x9Kwhh8G28o?si=TnLau2MO8YYJjr7U"
+ls
+ranger
+ffmpeg -i "ASMR âƒ¸ƒ¦ cosy rambling in my lap â€ªâ€ªâƒ½¤ï¸ƒ®â€¬ - lap pov, lofi, whispered.webm" "ASMR âƒ¸ƒ¦ cosy rambling in my lap â€ªâ€ªâƒ½¤ï¸ƒ®â€¬ - lap pov, lofi, whispered.mp4"
+clear
+ls
+ranger
+cd BunnyAyu
+ls
+ffmpeg -i "ASMR Blanket Brushing ðƒ¿ƒ¬§ï¸ƒ¯ 3DIO Free Space Pro ll.we
+clear
+ffmpeg -i "ASMR Blanket Brushing ðƒ¿ƒ¬§ï¸ƒ¯ 3DIO Free Space Pro ll.webm" "ASMR Blanket Brushing ðƒ¿ƒ¬§ï¸ƒ¯ 3DIO Free Space Pro ll.mp4"
+ranger
+home
+clear
+update
+nettest
+clear
+nettest
+update
+mas outdated
+mas upgrade
+cd .config/zsh
+ls
+vim zsh_aliases
+exit
+ls
+brew bundle dump --describe
+clear
+exit
+brew search ilok
+brew --cask --adopt ilok-license-manager
+brew install --cask --adopt ilok-license-manager
+brew bundle dump --describe
+exit
+open https://www.twitch.tv/hajime
+exit
+open https://www.twitch.tv/bipsygg
+exit
+home
+celar
+clear
+cat zsh_aliases
+cat ~/.config/zsh/zsh_aliases
+bat .zshrc
+cat .zshrc
+update
+brew info proton-mail
+brew install --cask --adopt steinberg-activation-manager
+brew ls
+brew uninstall gh
+cd Downloads
+brew bundle dump --describe
+cat Brewfile
+exit
+home
+clear
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/
+ls
+cd Special
+ls
+clear
+lux "https://www.pornhub.com/view_video.php?viewkey=ph5fa983d027ccd"
+vlear
+clear
+clear
+lux -p "https://www.pornhub.com/model/bigtittygothegg/videos?o=lg&"
+lux "https://www.pornhub.com/model/bigtittygothegg/videos?o=lg&"
+clear
+lux "https://www.pornhub.com/view_video.php?viewkey=650a47e1d2702" && lux "https://www.pornhub.com/view_video.php?viewkey=6421f66a55811" && lux "https://www.pornhub.com/view_video.php?viewkey=649335b520828" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62d1e2a981db7" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63a15ed7dab38" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6324d9b2d04f3" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62b23c6782f03" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6356b4ef9d1ce" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6179c3c08e5e4" && lux "https://www.pornhub.com/view_video.php?viewkey=ph5f4be297b940e" && lux "https://www.pornhub.com/view_video.php?viewkey=ph633dfd6d75e9b" && lux "https://www.pornhub.com/view_video.php?viewkey=ph5f9df2cf80d5f" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62deed3095865" && lux "https://www.pornhub.com/view_video.php?viewkey=ph5f65386ee3d91" && lux "https://www.pornhub.com/view_video.php?viewkey=ph5faf25357fa50" && lux "https://www.pornhub.com/view_video.php?viewkey=ph5f24cec4e9087" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6095b218e2f26" && lux "https://www.pornhub.com/view_video.php?viewkey=ph5fd540a09e4f7" && lux "https://www.pornhub.com/view_video.php?viewkey=654161bb6ef32"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph6185582227173" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61a2955dc386c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph627a957208e6c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61379c4b74e31" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611bdcf4ef018" && lux "https://www.pornhub.com/view_video.php?viewkey=ph618023512258d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611bdcf4cc46b" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6184057972eb2" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63851e231df03" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6157408fc7468" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6186ddbabd845" && lux "https://www.pornhub.com/view_video.php?viewkey=ph614a1812bbc82" && lux "https://www.pornhub.com/view_video.php?viewkey=ph618ea1575c6d0" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61686fcfd1014" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611e9594e543d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61d32260ed198" && lux "https://www.pornhub.com/view_video.php?viewkey=6449846ee6d3d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63b9ec0d05ffd" && lux "https://www.pornhub.com/view_video.php?viewkey=ph615c81a91b586" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61f972bd1c2cf" && lux "https://www.pornhub.com/view_video.php?viewkey=ph635593f4f3565" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63865386bad6a" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61b0e47c14687" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62656417a4aaf" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61ddaebcb6a07" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61dda62358ff2" && lux "https://www.pornhub.com/view_video.php?viewkey=659db32ce6545" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61dc7714a9444" && lux "https://www.pornhub.com/view_video.php?viewkey=658c987b2ecfe" && lux "https://www.pornhub.com/view_video.php?viewkey=647e3b415ab8a" && lux "https://www.pornhub.com/view_video.php?viewkey=65d23ba7992ba" && lux "https://www.pornhub.com/view_video.php?viewkey=6471185e23fb8" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62924c46755d3" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6169c23e0fa58" && lux "https://www.pornhub.com/view_video.php?viewkey=64a1c27eb0c13" && lux "https://www.pornhub.com/view_video.php?viewkey=ph622cc934883e2" && lux "https://www.pornhub.com/view_video.php?viewkey=65e653a4e8664" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63332cfc557e1" && lux "https://www.pornhub.com/view_video.php?viewkey=65945c82155b1" && lux "https://www.pornhub.com/view_video.php?viewkey=ph628a837022827" && lux "https://www.pornhub.com/view_video.php?viewkey=ph629cc5894b907" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6327853624be2" && lux "https://www.pornhub.com/view_video.php?viewkey=654aaf9fca07b" && lux "https://www.pornhub.com/view_video.php?viewkey=6563be7042cb2" && lux "https://www.pornhub.com/view_video.php?viewkey=63ed2a693e9f8" && lux "https://www.pornhub.com/view_video.php?viewkey=63fa500ab0475" && lux "https://www.pornhub.com/view_video.php?viewkey=6563bbe84687c" && lux "https://www.pornhub.com/view_video.php?viewkey=64496fa7094a3" && lux "https://www.pornhub.com/view_video.php?viewkey=63d6a88612bfb" && lux "https://www.pornhub.com/view_video.php?viewkey=6563b590d1475" && lux "https://www.pornhub.com/view_video.php?viewkey=ph629d22fd85b6c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6317855a7a651" && lux "https://www.pornhub.com/view_video.php?viewkey=ph634c6d7565b22" && lux "https://www.pornhub.com/view_video.php?viewkey=64724bf67ef63" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63852102e604c" && lux "https://www.pornhub.com/view_video.php?viewkey=63e16410b56c5" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6366ae89cdd7d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62ba0377366b3" && lux "https://www.pornhub.com/view_video.php?viewkey=64d28fc72588b" && lux "https://www.pornhub.com/view_video.php?viewkey=654ab372a946b" && lux "https://www.pornhub.com/view_video.php?viewkey=64e50c7b0e7a5" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63332cfc5a679" && lux "https://www.pornhub.com/view_video.php?viewkey=64457ff53d7a3" && lux "https://www.pornhub.com/view_video.php?viewkey=65d23dedd0d1e" && lux "https://www.pornhub.com/view_video.php?viewkey=64b053f77836f" && lux "https://www.pornhub.com/view_video.php?viewkey=63de9665493ce" && lux "https://www.pornhub.com/view_video.php?viewkey=654ab14cc7b5f" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62dada89c034c" && lux "https://www.pornhub.com/view_video.php?viewkey=651c866a35c32" && lux "https://www.pornhub.com/view_video.php?viewkey=651c89705098a" && lux "https://www.pornhub.com/view_video.php?viewkey=ph612156b28e4a9" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63865533bc8d3" && lux "https://www.pornhub.com/view_video.php?viewkey=64ee428e541de"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph6185582227173" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61a2955dc386c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph627a957208e6c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61379c4b74e31" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611bdcf4ef018" && lux "https://www.pornhub.com/view_video.php?viewkey=ph618023512258d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611bdcf4cc46b" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6184057972eb2" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63851e231df03" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6157408fc7468" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6186ddbabd845" && lux "https://www.pornhub.com/view_video.php?viewkey=ph614a1812bbc82" && lux "https://www.pornhub.com/view_video.php?viewkey=ph618ea1575c6d0" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61686fcfd1014" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611e9594e543d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61d32260ed198" && lux "https://www.pornhub.com/view_video.php?viewkey=6449846ee6d3d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63b9ec0d05ffd" && lux "https://www.pornhub.com/view_video.php?viewkey=ph615c81a91b586" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61f972bd1c2cf" && lux "https://www.pornhub.com/view_video.php?viewkey=ph635593f4f3565" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63865386bad6a" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61b0e47c14687" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62656417a4aaf" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61ddaebcb6a07" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61dda62358ff2" && lux "https://www.pornhub.com/view_video.php?viewkey=659db32ce6545" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61dc7714a9444" && lux "https://www.pornhub.com/view_video.php?viewkey=658c987b2ecfe" && lux "https://www.pornhub.com/view_video.php?viewkey=647e3b415ab8a" && lux "https://www.pornhub.com/view_video.php?viewkey=65d23ba7992ba" && lux "https://www.pornhub.com/view_video.php?viewkey=6471185e23fb8" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62924c46755d3" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6169c23e0fa58" && lux "https://www.pornhub.com/view_video.php?viewkey=64a1c27eb0c13" && lux "https://www.pornhub.com/view_video.php?viewkey=ph622cc934883e2" && lux "https://www.pornhub.com/view_video.php?viewkey=65e653a4e8664" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63332cfc557e1" && lux "https://www.pornhub.com/view_video.php?viewkey=65945c82155b1" && lux "https://www.pornhub.com/view_video.php?viewkey=ph628a837022827" && lux "https://www.pornhub.com/view_video.php?viewkey=ph629cc5894b907" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6327853624be2" && lux "https://www.pornhub.com/view_video.php?viewkey=654aaf9fca07b" && lux "https://www.pornhub.com/view_video.php?viewkey=6563be7042cb2" && lux "https://www.pornhub.com/view_video.php?viewkey=63ed2a693e9f8" && lux "https://www.pornhub.com/view_video.php?viewkey=63fa500ab0475" && lux "https://www.pornhub.com/view_video.php?viewkey=6563bbe84687c" && lux "https://www.pornhub.com/view_video.php?viewkey=64496fa7094a3" && lux "https://www.pornhub.com/view_video.php?viewkey=63d6a88612bfb" && lux "https://www.pornhub.com/view_video.php?viewkey=6563b590d1475" && lux "https://www.pornhub.com/view_video.php?viewkey=ph629d22fd85b6c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6317855a7a651" && lux "https://www.pornhub.com/view_video.php?viewkey=ph634c6d7565b22" && lux "https://www.pornhub.com/view_video.php?viewkey=64724bf67ef63" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63852102e604c" && lux "https://www.pornhub.com/view_video.php?viewkey=63e16410b56c5" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6366ae89cdd7d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62ba0377366b3" && lux "https://www.pornhub.com/view_video.php?viewkey=64d28fc72588b" && lux "https://www.pornhub.com/view_video.php?viewkey=654ab372a946b" && lux "https://www.pornhub.com/view_video.php?viewkey=64e50c7b0e7a5" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63332cfc5a679" && lux "https://www.pornhub.com/view_video.php?viewkey=64457ff53d7a3" && lux "https://www.pornhub.com/view_video.php?viewkey=65d23dedd0d1e" && lux "https://www.pornhub.com/view_video.php?viewkey=64b053f77836f" && lux "https://www.pornhub.com/view_video.php?viewkey=63de9665493ce" && lux "https://www.pornhub.com/view_video.php?viewkey=654ab14cc7b5f" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62dada89c034c" && lux "https://www.pornhub.com/view_video.php?viewkey=651c866a35c32" && lux "https://www.pornhub.com/view_video.php?viewkey=651c89705098a" && lux "https://www.pornhub.com/view_video.php?viewkey=ph612156b28e4a9" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63865533bc8d3" && lux "https://www.pornhub.com/view_video.php?viewkey=64ee428e541de"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph6185582227173" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61a2955dc386c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph627a957208e6c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61379c4b74e31" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611bdcf4ef018" && lux "https://www.pornhub.com/view_video.php?viewkey=ph618023512258d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611bdcf4cc46b" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6184057972eb2" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63851e231df03" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6157408fc7468" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6186ddbabd845" && lux "https://www.pornhub.com/view_video.php?viewkey=ph614a1812bbc82" && lux "https://www.pornhub.com/view_video.php?viewkey=ph618ea1575c6d0" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61686fcfd1014" && lux "https://www.pornhub.com/view_video.php?viewkey=ph611e9594e543d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61d32260ed198" && lux "https://www.pornhub.com/view_video.php?viewkey=6449846ee6d3d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63b9ec0d05ffd" && lux "https://www.pornhub.com/view_video.php?viewkey=ph615c81a91b586" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61f972bd1c2cf" && lux "https://www.pornhub.com/view_video.php?viewkey=ph635593f4f3565" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63865386bad6a" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61b0e47c14687" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62656417a4aaf" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61ddaebcb6a07" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61dda62358ff2" && lux "https://www.pornhub.com/view_video.php?viewkey=659db32ce6545" && lux "https://www.pornhub.com/view_video.php?viewkey=ph61dc7714a9444" && lux "https://www.pornhub.com/view_video.php?viewkey=658c987b2ecfe" && lux "https://www.pornhub.com/view_video.php?viewkey=647e3b415ab8a" && lux "https://www.pornhub.com/view_video.php?viewkey=65d23ba7992ba" && lux "https://www.pornhub.com/view_video.php?viewkey=6471185e23fb8" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62924c46755d3" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6169c23e0fa58" && lux "https://www.pornhub.com/view_video.php?viewkey=64a1c27eb0c13" && lux "https://www.pornhub.com/view_video.php?viewkey=ph622cc934883e2" && lux "https://www.pornhub.com/view_video.php?viewkey=65e653a4e8664" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63332cfc557e1" && lux "https://www.pornhub.com/view_video.php?viewkey=65945c82155b1" && lux "https://www.pornhub.com/view_video.php?viewkey=ph628a837022827" && lux "https://www.pornhub.com/view_video.php?viewkey=ph629cc5894b907" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6327853624be2" && lux "https://www.pornhub.com/view_video.php?viewkey=654aaf9fca07b" && lux "https://www.pornhub.com/view_video.php?viewkey=6563be7042cb2" && lux "https://www.pornhub.com/view_video.php?viewkey=63ed2a693e9f8" && lux "https://www.pornhub.com/view_video.php?viewkey=63fa500ab0475" && lux "https://www.pornhub.com/view_video.php?viewkey=6563bbe84687c" && lux "https://www.pornhub.com/view_video.php?viewkey=64496fa7094a3" && lux "https://www.pornhub.com/view_video.php?viewkey=63d6a88612bfb" && lux "https://www.pornhub.com/view_video.php?viewkey=6563b590d1475" && lux "https://www.pornhub.com/view_video.php?viewkey=ph629d22fd85b6c" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6317855a7a651" && lux "https://www.pornhub.com/view_video.php?viewkey=ph634c6d7565b22" && lux "https://www.pornhub.com/view_video.php?viewkey=64724bf67ef63" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63852102e604c" && lux "https://www.pornhub.com/view_video.php?viewkey=63e16410b56c5" && lux "https://www.pornhub.com/view_video.php?viewkey=ph6366ae89cdd7d" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62ba0377366b3" && lux "https://www.pornhub.com/view_video.php?viewkey=64d28fc72588b" && lux "https://www.pornhub.com/view_video.php?viewkey=654ab372a946b" && lux "https://www.pornhub.com/view_video.php?viewkey=64e50c7b0e7a5" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63332cfc5a679" && lux "https://www.pornhub.com/view_video.php?viewkey=64457ff53d7a3" && lux "https://www.pornhub.com/view_video.php?viewkey=65d23dedd0d1e" && lux "https://www.pornhub.com/view_video.php?viewkey=64b053f77836f" && lux "https://www.pornhub.com/view_video.php?viewkey=63de9665493ce" && lux "https://www.pornhub.com/view_video.php?viewkey=654ab14cc7b5f" && lux "https://www.pornhub.com/view_video.php?viewkey=ph62dada89c034c" && lux "https://www.pornhub.com/view_video.php?viewkey=651c866a35c32" && lux "https://www.pornhub.com/view_video.php?viewkey=651c89705098a" && lux "https://www.pornhub.com/view_video.php?viewkey=ph612156b28e4a9" && lux "https://www.pornhub.com/view_video.php?viewkey=ph63865533bc8d3" && lux "https://www.pornhub.com/view_video.php?viewkey=64ee428e541de"
+lux "https://www.pornhub.com/view_video.php?viewkey=651ce2ed00325" "https://www.pornhub.com/view_video.php?viewkey=64250d51cfcd4" "https://www.pornhub.com/view_video.php?viewkey=64ae1aeb399bb" "https://www.pornhub.com/view_video.php?viewkey=ph63b858321f15c" "https://www.pornhub.com/view_video.php?viewkey=64361df187d07" "https://www.pornhub.com/view_video.php?viewkey=65b88782f03a3" "https://www.pornhub.com/view_video.php?viewkey=6424efd33b25b" "https://www.pornhub.com/view_video.php?viewkey=65091c6a09100"
+lux "https://www.pornhub.com/view_video.php?viewkey=643f611f44f7c" "https://www.pornhub.com/view_video.php?viewkey=646226077887e" "https://www.pornhub.com/view_video.php?viewkey=64622412b5cc0" "https://www.pornhub.com/view_video.php?viewkey=658f92482c1e9" "https://www.pornhub.com/view_video.php?viewkey=648942118b24d" "https://www.pornhub.com/view_video.php?viewkey=6493064ed1765" "https://www.pornhub.com/view_video.php?viewkey=6445b45092c72" "https://www.pornhub.com/view_video.php?viewkey=6445b00e1a1ce" "https://www.pornhub.com/view_video.php?viewkey=649304b8de05e" "https://www.pornhub.com/view_video.php?viewkey=6598834e3eb9c" "https://www.pornhub.com/view_video.php?viewkey=648be9c845086" "https://www.pornhub.com/view_video.php?viewkey=6589cfa76ab54" "https://www.pornhub.com/view_video.php?viewkey=648a7dd28c4e1" "https://www.pornhub.com/view_video.php?viewkey=651d5c3949003" "https://www.pornhub.com/view_video.php?viewkey=65e05cddbbe36" "https://www.pornhub.com/view_video.php?viewkey=648932fd82bc0" "https://www.pornhub.com/view_video.php?viewkey=6445b1370ea97" "https://www.pornhub.com/view_video.php?viewkey=ph5e432d90d00fc" "https://www.pornhub.com/view_video.php?viewkey=6587b03daa5cd" "https://www.pornhub.com/view_video.php?viewkey=ph5ef1d58c66e7c" "https://www.pornhub.com/view_video.php?viewkey=64d61d8ddd2f9" "https://www.pornhub.com/view_video.php?viewkey=65947ec5dec03" "https://www.pornhub.com/view_video.php?viewkey=ph5ee3d595b844f" "https://www.pornhub.com/view_video.php?viewkey=658e35a6d0c88" "https://www.pornhub.com/view_video.php?viewkey=64d3954b3075a" "https://www.pornhub.com/view_video.php?viewkey=65a240a8ad8c1" "https://www.pornhub.com/view_video.php?viewkey=658b9873d7d13" "https://www.pornhub.com/view_video.php?viewkey=658729ce01640" "https://www.pornhub.com/view_video.php?viewkey=648a7c91673eb" "https://www.pornhub.com/view_video.php?viewkey=6591e03f18414" "https://www.pornhub.com/view_video.php?viewkey=65a2414fb2a23" "https://www.pornhub.com/view_video.php?viewkey=649b4556b28ac" "https://www.pornhub.com/view_video.php?viewkey=65cdbd0768b4f" "https://www.pornhub.com/view_video.php?viewkey=63fb90ef053bd" "https://www.pornhub.com/view_video.php?viewkey=ph5eb50578c5d4a" "https://www.pornhub.com/view_video.php?viewkey=659479dcdc30c" "https://www.pornhub.com/view_video.php?viewkey=658501d3470e8" "https://www.pornhub.com/view_video.php?viewkey=64d122f11720d" "https://www.pornhub.com/view_video.php?viewkey=64a4644c76beb" "https://www.pornhub.com/view_video.php?viewkey=65b46f7155fa4" "https://www.pornhub.com/view_video.php?viewkey=64bb0ec7502d9" "https://www.pornhub.com/view_video.php?viewkey=64d7cafc0a987" "https://www.pornhub.com/view_video.php?viewkey=658e3ae76826b" "https://www.pornhub.com/view_video.php?viewkey=6591e2433952d" "https://www.pornhub.com/view_video.php?viewkey=6595c5de6eaae" "https://www.pornhub.com/view_video.php?viewkey=65b4731a628b3" "https://www.pornhub.com/view_video.php?viewkey=64dd124a241f7" "https://www.pornhub.com/view_video.php?viewkey=65b5e1c54f271" "https://www.pornhub.com/view_video.php?viewkey=65d8b41e87f36" "https://www.pornhub.com/view_video.php?viewkey=648931e257359" "https://www.pornhub.com/view_video.php?viewkey=64b17f2a17bf2" "https://www.pornhub.com/view_video.php?viewkey=64d39452a386d" "https://www.pornhub.com/view_video.php?viewkey=65b74f3842cc9" "https://www.pornhub.com/view_video.php?viewkey=65c22f9357727" "https://www.pornhub.com/view_video.php?viewkey=64622862a7521"
+clear
+lux "https://www.pornhub.com/view_video.php?viewkey=ph6095df7b4dcba" "https://www.pornhub.com/view_video.php?viewkey=ph60d5de60eefa6" "https://www.pornhub.com/view_video.php?viewkey=ph61bce73a37fc0" "https://www.pornhub.com/view_video.php?viewkey=ph61981cc45ab0f" "https://www.pornhub.com/view_video.php?viewkey=ph61e1cf92a8095" "https://www.pornhub.com/view_video.php?viewkey=ph611fc641074f3" "https://www.pornhub.com/view_video.php?viewkey=ph608c4c7e46073" "https://www.pornhub.com/view_video.php?viewkey=ph63a4b20726e6c" "https://www.pornhub.com/view_video.php?viewkey=ph620fef7443ed2" "https://www.pornhub.com/view_video.php?viewkey=ph617c13e655e9e" "https://www.pornhub.com/view_video.php?viewkey=ph614e63cf97493" "https://www.pornhub.com/view_video.php?viewkey=ph639cbf6756afc" "https://www.pornhub.com/view_video.php?viewkey=65e097ab046e3"
+lux "https://www.pornhub.com/view_video.php?viewkey=64f23a2ce2440" "https://www.pornhub.com/view_video.php?viewkey=6435f0b3de05f" "https://www.pornhub.com/view_video.php?viewkey=641287661b9e2" "https://www.pornhub.com/view_video.php?viewkey=63ffa15e54dc8" "https://www.pornhub.com/view_video.php?viewkey=ph633c4d00ef739"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph60535d63451be"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph61fb97c38606c" "https://www.pornhub.com/view_video.php?viewkey=ph5fc16e57d96c7" "https://www.pornhub.com/view_video.php?viewkey=ph62d02981f1626" "https://www.pornhub.com/view_video.php?viewkey=ph62cec744a8362" "https://www.pornhub.com/view_video.php?viewkey=ph62fcfddae3240" "https://www.pornhub.com/view_video.php?viewkey=ph62729674acfa3" "https://www.pornhub.com/view_video.php?viewkey=ph63064e580e44d" "https://www.pornhub.com/view_video.php?viewkey=ph5d4c56b8181ca" "https://www.pornhub.com/view_video.php?viewkey=ph6304fc2075113" "https://www.pornhub.com/view_video.php?viewkey=ph5fc1716399d6a" "https://www.pornhub.com/view_video.php?viewkey=ph60a57aeeb7aaa" "https://www.pornhub.com/view_video.php?viewkey=ph5d4c5834ce311" "https://www.pornhub.com/view_video.php?viewkey=ph637f70e292218" "https://www.pornhub.com/view_video.php?viewkey=ph63c9533e5dab9" "https://www.pornhub.com/view_video.php?viewkey=ph625d6d6fbccea" "https://www.pornhub.com/view_video.php?viewkey=ph6070f5bc8af9b" "https://www.pornhub.com/view_video.php?viewkey=ph618d52314a804"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph61f00d8932b2b" "https://www.pornhub.com/view_video.php?viewkey=ph5dd8746bd3a48" "https://www.pornhub.com/view_video.php?viewkey=ph6149e81f3c8ac" "https://www.pornhub.com/view_video.php?viewkey=ph5e3cb3748d37c" "https://www.pornhub.com/view_video.php?viewkey=ph61cb27a34432b" "https://www.pornhub.com/view_video.php?viewkey=ph627c0232ecd5f" "https://www.pornhub.com/view_video.php?viewkey=ph637d1f5cbcd74" "https://www.pornhub.com/view_video.php?viewkey=ph613b62032831f" "https://www.pornhub.com/view_video.php?viewkey=ph5dbc88d2c77d3" "https://www.pornhub.com/view_video.php?viewkey=ph5d688cbf261cf" "https://www.pornhub.com/view_video.php?viewkey=ph5d40ed4acc754" "https://www.pornhub.com/view_video.php?viewkey=ph62ebfa53f2092" "https://www.pornhub.com/view_video.php?viewkey=6532b01b69fb3" "https://www.pornhub.com/view_video.php?viewkey=ph6102c2274fa9e" "https://www.pornhub.com/view_video.php?viewkey=63f691d8d1454" "https://www.pornhub.com/view_video.php?viewkey=ph5b1f1000cc6dd" "https://www.pornhub.com/view_video.php?viewkey=ph5f21b6b79112d" "https://www.pornhub.com/view_video.php?viewkey=64b750c8ae548" "https://www.pornhub.com/view_video.php?viewkey=ph625443e323fc1" "https://www.pornhub.com/view_video.php?viewkey=ph60afb4df5c583" "https://www.pornhub.com/view_video.php?viewkey=ph61573a2021c5a" "https://www.pornhub.com/view_video.php?viewkey=ph633faeea66a75" "https://www.pornhub.com/view_video.php?viewkey=ph611454e253815" "https://www.pornhub.com/view_video.php?viewkey=ph633fb81a205c0" "https://www.pornhub.com/view_video.php?viewkey=ph61b1f9a6e110d" "https://www.pornhub.com/view_video.php?viewkey=640657afc34d7" "https://www.pornhub.com/view_video.php?viewkey=64012df83f23b" "https://www.pornhub.com/view_video.php?viewkey=6459c1bb46647" "https://www.pornhub.com/view_video.php?viewkey=ph637521659abc2" "https://www.pornhub.com/view_video.php?viewkey=6591ec9a9b03f" "https://www.pornhub.com/view_video.php?viewkey=650d01493d39f" "https://www.pornhub.com/view_video.php?viewkey=64dabdc42d22f" "https://www.pornhub.com/view_video.php?viewkey=64272b19b67ef" "https://www.pornhub.com/view_video.php?viewkey=647ead1056c2f" "https://www.pornhub.com/view_video.php?viewkey=64cc58525a5d9" "https://www.pornhub.com/view_video.php?viewkey=654ef679c99a0" "https://www.pornhub.com/view_video.php?viewkey=64dbb41ad66ed" "https://www.pornhub.com/view_video.php?viewkey=64b7479fb04e0" "https://www.pornhub.com/view_video.php?viewkey=65c6ece4ba4f3"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph621d6c5850872" "https://www.pornhub.com/view_video.php?viewkey=ph62035bc724048" "https://www.pornhub.com/view_video.php?viewkey=ph61f092cd77b15" "https://www.pornhub.com/view_video.php?viewkey=ph619557ed5286c" "https://www.pornhub.com/view_video.php?viewkey=ph616fb1625e519" "https://www.pornhub.com/view_video.php?viewkey=ph5f56bed2e9917" "https://www.pornhub.com/view_video.php?viewkey=ph5f4d5eb9ca287" "https://www.pornhub.com/view_video.php?viewkey=ph5f161d19a90f2" "https://www.pornhub.com/view_video.php?viewkey=ph5e919d93a9262" "https://www.pornhub.com/view_video.php?viewkey=ph5e8773f014447" "https://www.pornhub.com/view_video.php?viewkey=ph5e7dd3a7c6a94" "https://www.pornhub.com/view_video.php?viewkey=ph5e624396ad32c" "https://www.pornhub.com/view_video.php?viewkey=ph5df336103895c" "https://www.pornhub.com/view_video.php?viewkey=ph5d8ca47076f67" "https://www.pornhub.com/view_video.php?viewkey=ph5d7b6ce745282" "https://www.pornhub.com/view_video.php?viewkey=ph5d16033cd9906" "https://www.pornhub.com/view_video.php?viewkey=ph5d0cd137bbe4e" "https://www.pornhub.com/view_video.php?viewkey=ph5d08a551ad21d" "https://www.pornhub.com/view_video.php?viewkey=ph5bf5011e88bd8" "https://www.pornhub.com/view_video.php?viewkey=ph5ab85aaa25e62" "https://www.pornhub.com/view_video.php?viewkey=ph5a71677801b1d" "https://www.pornhub.com/view_video.php?viewkey=ph5a5318d7d9786" "https://www.pornhub.com/view_video.php?viewkey=ph593d15685ccc4" "https://www.pornhub.com/view_video.php?viewkey=ph583b665d6ff10" "https://www.pornhub.com/view_video.php?viewkey=ph575934721c302" "https://www.pornhub.com/view_video.php?viewkey=ph570b68c00c53e" "https://www.pornhub.com/view_video.php?viewkey=ph56d392b60c12e" "https://www.pornhub.com/view_video.php?viewkey=ph56a5e0b8a06ce" "https://www.pornhub.com/view_video.php?viewkey=ph5640561eca04f" "https://www.pornhub.com/view_video.php?viewkey=ph562428dc941a4" "https://www.pornhub.com/view_video.php?viewkey=ph55ec912197779" "https://www.pornhub.com/view_video.php?viewkey=ph55b549a719b9d" "https://www.pornhub.com/view_video.php?viewkey=ph55a860f87891f" "https://www.pornhub.com/view_video.php?viewkey=1301933693" "https://www.pornhub.com/view_video.php?viewkey=1443417285" "https://www.pornhub.com/view_video.php?viewkey=1307019920" "https://www.pornhub.com/view_video.php?viewkey=582107075" "https://www.pornhub.com/view_video.php?viewkey=1947700457" "https://www.pornhub.com/view_video.php?viewkey=2129198252" "https://www.pornhub.com/view_video.php?viewkey=1224102336" "https://www.pornhub.com/view_video.php?viewkey=587423474" "https://www.pornhub.com/view_video.php?viewkey=288629132" "https://www.pornhub.com/view_video.php?viewkey=1795952055" "https://www.pornhub.com/view_video.php?viewkey=1564538002" "https://www.pornhub.com/view_video.php?viewkey=612376478" "https://www.pornhub.com/view_video.php?viewkey=1560271732" "https://www.pornhub.com/view_video.php?viewkey=646392810" "https://www.pornhub.com/view_video.php?viewkey=2010819142" "https://www.pornhub.com/view_video.php?viewkey=1383144261" "https://www.pornhub.com/view_video.php?viewkey=1269535896" "https://www.pornhub.com/view_video.php?viewkey=1033706830" "https://www.pornhub.com/view_video.php?viewkey=442702512" "https://www.pornhub.com/view_video.php?viewkey=508272921" "https://www.pornhub.com/view_video.php?viewkey=1652239580" "https://www.pornhub.com/view_video.php?viewkey=2013401551" "https://www.pornhub.com/view_video.php?viewkey=1411635578" "https://www.pornhub.com/view_video.php?viewkey=816667377" "https://www.pornhub.com/view_video.php?viewkey=1565069555" "https://www.pornhub.com/view_video.php?viewkey=2833772" "https://www.pornhub.com/view_video.php?viewkey=106014070" "https://www.pornhub.com/view_video.php?viewkey=1411800430" "https://www.pornhub.com/view_video.php?viewkey=511122117" "https://www.pornhub.com/view_video.php?viewkey=32995235" "https://www.pornhub.com/view_video.php?viewkey=1721659952" "https://www.pornhub.com/view_video.php?viewkey=1469815338" "https://www.pornhub.com/view_video.php?viewkey=1098353952" "https://www.pornhub.com/view_video.php?viewkey=408545034" "https://www.pornhub.com/view_video.php?viewkey=721041763" "https://www.pornhub.com/view_video.php?viewkey=761446028" "https://www.pornhub.com/view_video.php?viewkey=1378459703" "https://www.pornhub.com/view_video.php?viewkey=763914907" "https://www.pornhub.com/view_video.php?viewkey=846084381" "https://www.pornhub.com/view_video.php?viewkey=1536384727" "https://www.pornhub.com/view_video.php?viewkey=1703134904" "https://www.pornhub.com/view_video.php?viewkey=578156968" "https://www.pornhub.com/view_video.php?viewkey=926181792" "https://www.pornhub.com/view_video.php?viewkey=1980274321" "https://www.pornhub.com/view_video.php?viewkey=1840063590" "https://www.pornhub.com/view_video.php?viewkey=1230212484" "https://www.pornhub.com/view_video.php?viewkey=573538588" "https://www.pornhub.com/view_video.php?viewkey=935888633" "https://www.pornhub.com/view_video.php?viewkey=501285831" "https://www.pornhub.com/view_video.php?viewkey=599985313" 
+lux "https://www.pornhub.com/view_video.php?viewkey=ph62ebc4f0380c5" "https://www.pornhub.com/view_video.php?viewkey=ph62ebc95c87ded" "https://www.pornhub.com/view_video.php?viewkey=ph626ab2a06760f" "https://www.pornhub.com/view_video.php?viewkey=ph626ab29d8d329" "https://www.pornhub.com/view_video.php?viewkey=ph62ebc4f147f71" "https://www.pornhub.com/view_video.php?viewkey=ph60f04c0d1c93c" "https://www.pornhub.com/view_video.php?viewkey=ph612e68a049a1a" "https://www.pornhub.com/view_video.php?viewkey=ph60f0496595167" "https://www.pornhub.com/view_video.php?viewkey=ph62b331cc1e640" "https://www.pornhub.com/view_video.php?viewkey=ph61d5c0c58ae7d" "https://www.pornhub.com/view_video.php?viewkey=ph60f5894fdafed" "https://www.pornhub.com/view_video.php?viewkey=ph618bf4a0ddcb5" "https://www.pornhub.com/view_video.php?viewkey=ph62f10d8fa869b" "https://www.pornhub.com/view_video.php?viewkey=6586824d3c679" "https://www.pornhub.com/view_video.php?viewkey=ph626ab29eecd9d" "https://www.pornhub.com/view_video.php?viewkey=ph62e7cc876b04e" "https://www.pornhub.com/view_video.php?viewkey=ph63b5823f162fc" "https://www.pornhub.com/view_video.php?viewkey=ph6298b90a64575" "https://www.pornhub.com/view_video.php?viewkey=ph628514f6deac9" "https://www.pornhub.com/view_video.php?viewkey=ph628ba525cddc5" "https://www.pornhub.com/view_video.php?viewkey=ph61437e6205184" "https://www.pornhub.com/view_video.php?viewkey=ph621e2f81b48c1" "https://www.pornhub.com/view_video.php?viewkey=65d3814f5cac1" "https://www.pornhub.com/view_video.php?viewkey=ph628ba73fd3398" "https://www.pornhub.com/view_video.php?viewkey=65bdef205f629" "https://www.pornhub.com/view_video.php?viewkey=ph60f587a336373" "https://www.pornhub.com/view_video.php?viewkey=64357057a2dc3" "https://www.pornhub.com/view_video.php?viewkey=ph61521f512d16d" "https://www.pornhub.com/view_video.php?viewkey=ph6298d7be22169" "https://www.pornhub.com/view_video.php?viewkey=ph60f58587a8ee2" "https://www.pornhub.com/view_video.php?viewkey=64dd247861d87" "https://www.pornhub.com/view_video.php?viewkey=63dc160a25ac6" "https://www.pornhub.com/view_video.php?viewkey=64b16145dc970" "https://www.pornhub.com/view_video.php?viewkey=6560b8d7b0836" "https://www.pornhub.com/view_video.php?viewkey=6479058457966" "https://www.pornhub.com/view_video.php?viewkey=ph632106d6ace15" "https://www.pornhub.com/view_video.php?viewkey=6553dafbb3e22" "https://www.pornhub.com/view_video.php?viewkey=641332f1e922e" "https://www.pornhub.com/view_video.php?viewkey=640110edef946" "https://www.pornhub.com/view_video.php?viewkey=ph632e195f019e1" "https://www.pornhub.com/view_video.php?viewkey=64fa3f4ec16da" "https://www.pornhub.com/view_video.php?viewkey=64cd11839c2c9" "https://www.pornhub.com/view_video.php?viewkey=ph6365736c54a5a" "https://www.pornhub.com/view_video.php?viewkey=650cb5530eeee" "https://www.pornhub.com/view_video.php?viewkey=ph62742d7cbc7b5" "https://www.pornhub.com/view_video.php?viewkey=63e5650531db0" "https://www.pornhub.com/view_video.php?viewkey=657c6b6ca8007" "https://www.pornhub.com/view_video.php?viewkey=65eb384b6ebf0"
+parent
+parent
+cd Audio
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5PqYacM4XLsX602l36DHk2h&si=GG1Ts6QP5L2Hr2It"
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5PqYacM4XLsX602l36DHk2h&si=GG1Ts6QP5L2Hr2It"
+clear
+lux -p "https://youtube.com/playlist?list=PL4ETLdgNtm5NkT0Rfw2nBOtSUHjBaRHj4&si=97lM328C_1fPp7O1"
+lux "https://www.youtube.com/watch?v=8j3wK1DXhrs" 
+parent
+cd Special
+cd Video
+cd Special
+lux "https://www.pornhub.com/view_video.php?viewkey=ph593963b439cdb" "https://www.pornhub.com/view_video.php?viewkey=ph5ae226c57e45a" "https://www.pornhub.com/view_video.php?viewkey=ph5b7c7e4abea3b" "https://www.pornhub.com/view_video.php?viewkey=645a59822ea95" "https://www.pornhub.com/view_video.php?viewkey=ph60595a4e11237" "https://www.pornhub.com/view_video.php?viewkey=ph620e67c7ee46e" "https://www.pornhub.com/view_video.php?viewkey=ph5aff249f2915c" "https://www.pornhub.com/view_video.php?viewkey=ph5ef81853800a4" "https://www.pornhub.com/view_video.php?viewkey=ph5b5937c2d2c41" "https://www.pornhub.com/view_video.php?viewkey=ph5ad768dfd65bd" "https://www.pornhub.com/view_video.php?viewkey=ph632b2930bc9bf" "https://www.pornhub.com/view_video.php?viewkey=ph59c5278c15292" "https://www.pornhub.com/view_video.php?viewkey=ph5c30b88aaf649" "https://www.pornhub.com/view_video.php?viewkey=ph5a0efe3684e38" "https://www.pornhub.com/view_video.php?viewkey=ph5f3b268a0e56e" "https://www.pornhub.com/view_video.php?viewkey=ph5f40690f4ac7b" "https://www.pornhub.com/view_video.php?viewkey=ph6287b1841267a" "https://www.pornhub.com/view_video.php?viewkey=ph5f4c0a38e9ff0" "https://www.pornhub.com/view_video.php?viewkey=6419e7619e6ae" "https://www.pornhub.com/view_video.php?viewkey=ph62603e316df28" "https://www.pornhub.com/view_video.php?viewkey=ph5970e4f8c493d" "https://www.pornhub.com/view_video.php?viewkey=ph5aa974e327b91" "https://www.pornhub.com/view_video.php?viewkey=ph5e7984d695f44" "https://www.pornhub.com/view_video.php?viewkey=63d28dd40c0e0" "https://www.pornhub.com/view_video.php?viewkey=ph5b25e402c9e6e" "https://www.pornhub.com/view_video.php?viewkey=ph5e798db8c7769" "https://www.pornhub.com/view_video.php?viewkey=ph63482c1560731" "https://www.pornhub.com/view_video.php?viewkey=ph594d4060304ff" "https://www.pornhub.com/view_video.php?viewkey=64d24849392fe" "https://www.pornhub.com/view_video.php?viewkey=ph5e4a223e3f4bf" "https://www.pornhub.com/view_video.php?viewkey=ph5ad7682149f37" "https://www.pornhub.com/view_video.php?viewkey=64cbd790dcda0" "https://www.pornhub.com/view_video.php?viewkey=ph587e709684940" "https://www.pornhub.com/view_video.php?viewkey=ph5a3bd7c1c34ef" "https://www.pornhub.com/view_video.php?viewkey=64f749077b504" "https://www.pornhub.com/view_video.php?viewkey=ph5f844eda9050d" "https://www.pornhub.com/view_video.php?viewkey=ph623b49a9bc857" "https://www.pornhub.com/view_video.php?viewkey=ph6306477ae15cf" "https://www.pornhub.com/view_video.php?viewkey=ph594d47ac9ea75" "https://www.pornhub.com/view_video.php?viewkey=641460a9dd18a" "https://www.pornhub.com/view_video.php?viewkey=63fe394c6b0b7" "https://www.pornhub.com/view_video.php?viewkey=ph5ae21f9416c55" "https://www.pornhub.com/view_video.php?viewkey=ph5d3e4d0229606" "https://www.pornhub.com/view_video.php?viewkey=ph597a00b3d45eb" "https://www.pornhub.com/view_video.php?viewkey=ph5c4571221e389" "https://www.pornhub.com/view_video.php?viewkey=ph5fe93fb8ede00" "https://www.pornhub.com/view_video.php?viewkey=ph5b71010a66bbd" "https://www.pornhub.com/view_video.php?viewkey=ph59ea37ba12c27" "https://www.pornhub.com/view_video.php?viewkey=ph5aa163747ceb6" "https://www.pornhub.com/view_video.php?viewkey=ph5984797b6cc2a" "https://www.pornhub.com/view_video.php?viewkey=ph5c5d10141becc" "https://www.pornhub.com/view_video.php?viewkey=ph5996f0f895efb" "https://www.pornhub.com/view_video.php?viewkey=651d871db06ca" "https://www.pornhub.com/view_video.php?viewkey=ph5f8507341cf1b" "https://www.pornhub.com/view_video.php?viewkey=649f256250473" "https://www.pornhub.com/view_video.php?viewkey=ph58911b90ad8f5" "https://www.pornhub.com/view_video.php?viewkey=ph63ceca8ce6157" "https://www.pornhub.com/view_video.php?viewkey=ph5f5da7fcbf069" "https://www.pornhub.com/view_video.php?viewkey=ph603dae1a62c7f" "https://www.pornhub.com/view_video.php?viewkey=ph62f510eff25db" "https://www.pornhub.com/view_video.php?viewkey=649206d2e54f3" "https://www.pornhub.com/view_video.php?viewkey=64c13f419b979" "https://www.pornhub.com/view_video.php?viewkey=ph5af3c42195c66" "https://www.pornhub.com/view_video.php?viewkey=ph631f576e7269c" "https://www.pornhub.com/view_video.php?viewkey=ph59d69f848c729" "https://www.pornhub.com/view_video.php?viewkey=ph5aeb7448cb576" "https://www.pornhub.com/view_video.php?viewkey=ph5a3bdd73613e0" "https://www.pornhub.com/view_video.php?viewkey=642467202f7c4" "https://www.pornhub.com/view_video.php?viewkey=ph5e8bf3c87dd99" "https://www.pornhub.com/view_video.php?viewkey=ph5d6defb581791" "https://www.pornhub.com/view_video.php?viewkey=ph5f2f4c824badc" "https://www.pornhub.com/view_video.php?viewkey=ph61112c928d890" "https://www.pornhub.com/view_video.php?viewkey=ph5f9f550d4dda6" "https://www.pornhub.com/view_video.php?viewkey=ph5d1978f748489" "https://www.pornhub.com/view_video.php?viewkey=ph5a7506ad151b3" "https://www.pornhub.com/view_video.php?viewkey=ph5931c2c148e4a" "https://www.pornhub.com/view_video.php?viewkey=ph5ba720e6cfa40" "https://www.pornhub.com/view_video.php?viewkey=ph5a57b9cef1535" "https://www.pornhub.com/view_video.php?viewkey=ph59e114d7ea8ec" "https://www.pornhub.com/view_video.php?viewkey=ph59c51e98297d7" "https://www.pornhub.com/view_video.php?viewkey=ph5a9871ddb822c" "https://www.pornhub.com/view_video.php?viewkey=ph5d2bd4d80c6d9" 
+lux "https://www.pornhub.com/view_video.php?viewkey=ph5a3d5ca85df46" "https://www.pornhub.com/view_video.php?viewkey=ph5c05540b81669" "https://www.pornhub.com/view_video.php?viewkey=65d68fa5a8853" "https://www.pornhub.com/view_video.php?viewkey=ph5f5f301b0a2c4" "https://www.pornhub.com/view_video.php?viewkey=ph5d64efa503b01" "https://www.pornhub.com/view_video.php?viewkey=ph56cb30b838074" "https://www.pornhub.com/view_video.php?viewkey=ph55ed7fbc23fc1" "https://www.pornhub.com/view_video.php?viewkey=ph56f254b9a0f7f" "https://www.pornhub.com/view_video.php?viewkey=ph5d6002dfabe48" "https://www.pornhub.com/view_video.php?viewkey=ph57ebbf01a3913" "https://www.pornhub.com/view_video.php?viewkey=ph57da70c8805fd" "https://www.pornhub.com/view_video.php?viewkey=695540061" "https://www.pornhub.com/view_video.php?viewkey=144069337" "https://www.pornhub.com/view_video.php?viewkey=684098333" "https://www.pornhub.com/view_video.php?viewkey=ph5dcd6c4048fa5" "https://www.pornhub.com/view_video.php?viewkey=ph5d691d77817c7" "https://www.pornhub.com/view_video.php?viewkey=ph5c46bdc926347" "https://www.pornhub.com/view_video.php?viewkey=ph5bacd14bba4a3" "https://www.pornhub.com/view_video.php?viewkey=ph56647b0551a66" "https://www.pornhub.com/view_video.php?viewkey=ph561bdffc19270" "https://www.pornhub.com/view_video.php?viewkey=ph59c27063b8ea6" "https://www.pornhub.com/view_video.php?viewkey=ph5d42beaf49e68" "https://www.pornhub.com/view_video.php?viewkey=ph5bc839ebde0ae" "https://www.pornhub.com/view_video.php?viewkey=ph61dc5d503a677" "https://www.pornhub.com/view_video.php?viewkey=ph5c136055c4473" "https://www.pornhub.com/view_video.php?viewkey=ph5c62d3cd0212a" "https://www.pornhub.com/view_video.php?viewkey=ph5c54590f47541" "https://www.pornhub.com/view_video.php?viewkey=ph592d2a4891f4b" "https://www.pornhub.com/view_video.php?viewkey=ph58048807b7abd" "https://www.pornhub.com/view_video.php?viewkey=ph5dce626c2c6ac" "https://www.pornhub.com/view_video.php?viewkey=ph572747dca15c7" "https://www.pornhub.com/view_video.php?viewkey=ph5c8133712fa4c" "https://www.pornhub.com/view_video.php?viewkey=ph599a7e9a3ec2a" "https://www.pornhub.com/view_video.php?viewkey=ph60084b8ad6caa" "https://www.pornhub.com/view_video.php?viewkey=ph5fe2fda3effc1" "https://www.pornhub.com/view_video.php?viewkey=ph567d687b1df06" "https://www.pornhub.com/view_video.php?viewkey=ph5d3f073e5ed26" "https://www.pornhub.com/view_video.php?viewkey=ph5e42a8747d42c" "https://www.pornhub.com/view_video.php?viewkey=ph61f7dc76a9eb8" "https://www.pornhub.com/view_video.php?viewkey=ph5df8782ea0d6f" "https://www.pornhub.com/view_video.php?viewkey=ph5c545bb94e6a0" "https://www.pornhub.com/view_video.php?viewkey=ph61a8e9e5b6f2c" "https://www.pornhub.com/view_video.php?viewkey=ph59ce23a34a9bd" "https://www.pornhub.com/view_video.php?viewkey=ph5bd9a1a767759" "https://www.pornhub.com/view_video.php?viewkey=ph57ed030d4aa30" "https://www.pornhub.com/view_video.php?viewkey=ph5c3ca50c59f94" "https://www.pornhub.com/view_video.php?viewkey=ph6025182632689" "https://www.pornhub.com/view_video.php?viewkey=ph5c50706a1b819" "https://www.pornhub.com/view_video.php?viewkey=ph5dcc188c261b7" "https://www.pornhub.com/view_video.php?viewkey=ph609555d60a33a" "https://www.pornhub.com/view_video.php?viewkey=ph56a9ff8ae8b87" "https://www.pornhub.com/view_video.php?viewkey=ph55cca427e8585" "https://www.pornhub.com/view_video.php?viewkey=ph5f5781c7e6290" "https://www.pornhub.com/view_video.php?viewkey=ph5780fc3abe417" "https://www.pornhub.com/view_video.php?viewkey=ph6079e1a0cc9c5" "https://www.pornhub.com/view_video.php?viewkey=ph5dd8017dbf597" "https://www.pornhub.com/view_video.php?viewkey=ph5cd3d87107b28" "https://www.pornhub.com/view_video.php?viewkey=ph5eb17377716d6" "https://www.pornhub.com/view_video.php?viewkey=ph56a4fc7a9148b" "https://www.pornhub.com/view_video.php?viewkey=ph620694c39af78" "https://www.pornhub.com/view_video.php?viewkey=ph5c1378c37db37" "https://www.pornhub.com/view_video.php?viewkey=ph56a3c8b151535" "https://www.pornhub.com/view_video.php?viewkey=ph61f015cadaa5a" "https://www.pornhub.com/view_video.php?viewkey=ph5cc6f79cb058d" "https://www.pornhub.com/view_video.php?viewkey=ph617c0799eda06" "https://www.pornhub.com/view_video.php?viewkey=ph5ebe585930173" "https://www.pornhub.com/view_video.php?viewkey=ph5eba967d3f7db" "https://www.pornhub.com/view_video.php?viewkey=ph5808b09b6c8e3" "https://www.pornhub.com/view_video.php?viewkey=ph5a8a783e88c67" "https://www.pornhub.com/view_video.php?viewkey=ph57bc49b1563cb" "https://www.pornhub.com/view_video.php?viewkey=ph624237ec5020d" "https://www.pornhub.com/view_video.php?viewkey=ph5888bb9de5b9e" "https://www.pornhub.com/view_video.php?viewkey=ph57adc776c4cee" "https://www.pornhub.com/view_video.php?viewkey=ph560ac840a32ec" "https://www.pornhub.com/view_video.php?viewkey=ph611cfe3aa556c" "https://www.pornhub.com/view_video.php?viewkey=ph5fb3c4d297976" "https://www.pornhub.com/view_video.php?viewkey=ph55b4f684cb3c1" "https://www.pornhub.com/view_video.php?viewkey=ph5f33f467e9ed5" "https://www.pornhub.com/view_video.php?viewkey=ph55d0ab156a3ef" "https://www.pornhub.com/view_video.php?viewkey=ph593e330bc0c14" "https://www.pornhub.com/view_video.php?viewkey=ph5bd707272bff1" "https://www.pornhub.com/view_video.php?viewkey=ph624237010cd95" "https://www.pornhub.com/view_video.php?viewkey=ph5df7757930d9a" "https://www.pornhub.com/view_video.php?viewkey=ph55c87ce3bb177" "https://www.pornhub.com/view_video.php?viewkey=ph56c9f1aea1ab3" "https://www.pornhub.com/view_video.php?viewkey=ph58feeab58751d" "https://www.pornhub.com/view_video.php?viewkey=ph61c460e727f28" "https://www.pornhub.com/view_video.php?viewkey=ph5693d7138c97d" "https://www.pornhub.com/view_video.php?viewkey=ph5cfa708f940a1" "https://www.pornhub.com/view_video.php?viewkey=ph6099051fef977" "https://www.pornhub.com/view_video.php?viewkey=ph5f858d78e4f35" "https://www.pornhub.com/view_video.php?viewkey=ph5c59a50f1e7f5" "https://www.pornhub.com/view_video.php?viewkey=ph5e955997bdbba" "https://www.pornhub.com/view_video.php?viewkey=ph5dafe3c2be715" "https://www.pornhub.com/view_video.php?viewkey=ph59428ab362ad8" "https://www.pornhub.com/view_video.php?viewkey=ph620fc299b214a" "https://www.pornhub.com/view_video.php?viewkey=ph62b9ddfc0de05" "https://www.pornhub.com/view_video.php?viewkey=ph5cdc0cd581497" "https://www.pornhub.com/view_video.php?viewkey=ph55fff88e3ff32" "https://www.pornhub.com/view_video.php?viewkey=ph5cfa6eb05e427" "https://www.pornhub.com/view_video.php?viewkey=ph5c4ab04f373e3" "https://www.pornhub.com/view_video.php?viewkey=ph58aaa0ca5a3ed" "https://www.pornhub.com/view_video.php?viewkey=ph5e8f25d8c0f86" "https://www.pornhub.com/view_video.php?viewkey=ph5cb5d4b95da76" "https://www.pornhub.com/view_video.php?viewkey=ph5cefe8941d9de" "https://www.pornhub.com/view_video.php?viewkey=ph5ff06e46a875d" "https://www.pornhub.com/view_video.php?viewkey=ph5fd92558e6068" "https://www.pornhub.com/view_video.php?viewkey=ph5e4162ce22ea2" "https://www.pornhub.com/view_video.php?viewkey=ph55ae490bce45a" "https://www.pornhub.com/view_video.php?viewkey=ph58b685f38c15a" "https://www.pornhub.com/view_video.php?viewkey=ph619519db0c114" "https://www.pornhub.com/view_video.php?viewkey=ph5c2746a4b9e33" "https://www.pornhub.com/view_video.php?viewkey=ph5beee80c13483" "https://www.pornhub.com/view_video.php?viewkey=ph5994573ad43e7" "https://www.pornhub.com/view_video.php?viewkey=ph5b7420729855f" "https://www.pornhub.com/view_video.php?viewkey=ph61b772c84443c" "https://www.pornhub.com/view_video.php?viewkey=ph5e60e3a7bafb4" "https://www.pornhub.com/view_video.php?viewkey=ph5e1c64ced0525" "https://www.pornhub.com/view_video.php?viewkey=ph559fc38d336d8" "https://www.pornhub.com/view_video.php?viewkey=ph585ceeb5f3b74" "https://www.pornhub.com/view_video.php?viewkey=ph586181ec7422e" "https://www.pornhub.com/view_video.php?viewkey=ph5829d375f00d6" "https://www.pornhub.com/view_video.php?viewkey=ph5d63e4630a40e" "https://www.pornhub.com/view_video.php?viewkey=ph5b76bf553fe9c" "https://www.pornhub.com/view_video.php?viewkey=ph59673883f3620" "https://www.pornhub.com/view_video.php?viewkey=ph5c6598192150e" "https://www.pornhub.com/view_video.php?viewkey=ph5ae2cd2f973f5" "https://www.pornhub.com/view_video.php?viewkey=ph605dfb260cc43" "https://www.pornhub.com/view_video.php?viewkey=644972bc7f47c" "https://www.pornhub.com/view_video.php?viewkey=ph6334672256c6e" "https://www.pornhub.com/view_video.php?viewkey=ph5b62d2e65a782" "https://www.pornhub.com/view_video.php?viewkey=ph5807402b79966" "https://www.pornhub.com/view_video.php?viewkey=ph5bd18e98ad1c9" "https://www.pornhub.com/view_video.php?viewkey=ph5e60e725e39fd" "https://www.pornhub.com/view_video.php?viewkey=ph5d0cd77d144c2" "https://www.pornhub.com/view_video.php?viewkey=ph5ec2624a1d216" "https://www.pornhub.com/view_video.php?viewkey=ph5af9327bb207e" "https://www.pornhub.com/view_video.php?viewkey=ph5d71098120716" "https://www.pornhub.com/view_video.php?viewkey=ph5641ffb81bb61" "https://www.pornhub.com/view_video.php?viewkey=ph5be02445405cd" "https://www.pornhub.com/view_video.php?viewkey=ph5f05abff9f84e" "https://www.pornhub.com/view_video.php?viewkey=ph5f880741ce9bc" "https://www.pornhub.com/view_video.php?viewkey=ph5c27507238b30" "https://www.pornhub.com/view_video.php?viewkey=ph58b54830c28a5" "https://www.pornhub.com/view_video.php?viewkey=ph62471adabcdef" "https://www.pornhub.com/view_video.php?viewkey=ph593d93c138d45" "https://www.pornhub.com/view_video.php?viewkey=ph5ae2c4ee44369" "https://www.pornhub.com/view_video.php?viewkey=ph5c05512b344c8" "https://www.pornhub.com/view_video.php?viewkey=ph59c028c12d1d6" "https://www.pornhub.com/view_video.php?viewkey=ph635fe6fc1b7fb" "https://www.pornhub.com/view_video.php?viewkey=ph5ac7170066c1c" "https://www.pornhub.com/view_video.php?viewkey=ph62c70599f293c"
+lux "https://www.pornhub.com/view_video.php?viewkey=6573c7cc23a8f&t=0"
+exit
+home
+clear
+home
+clear
+exit
+/Volumes/Ventoy/ventoy/VentoyWeb.sh ; exit
+cd /Volumes/Ventoy
+ls
+cd ventoy
+clear
+ls
+cat ventoy.json
+sudo bash VentoyWeb.sh
+sudo bash VentoyWeb.sh
+parent
+sudo bash VentoyWeb.sh
+sudo bash VentoyWeb.sh
+cd ventoy
+ls
+vim ventoy.json
+parent
+cd ventoy-1.0.97
+ls
+sudo bash VentoyWeb.sh
+exit
+home
+cd Downloads
+clear
+ls
+command -v rsync
+exit
+home
+brew info wave
+brew install --cask wave
+exit
+home
+clear
+brew uninstall --cask wave
+exitr
+exit
+c;ear
+clear
+parent
+cd ASMR
+cd Youtube
+cd ASMR
+clear
+ls
+mkdir "Egilea ASMR"
+cd "Egilea ASMR"
+clear
+parent
+parent
+parent
+cd Special
+clear
+lux "https://www.pornhub.com/view_video.php?viewkey=ph63b73536cfe9e" "https://www.pornhub.com/view_video.php?viewkey=65cfd754941ad" "https://www.pornhub.com/view_video.php?viewkey=64b8952d1e4fd" "https://www.pornhub.com/view_video.php?viewkey=6440738693d01" "https://www.pornhub.com/view_video.php?viewkey=641a400a8fbec" "https://www.pornhub.com/view_video.php?viewkey=6594d15d3c560"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph5ed3921a609ba"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph5d67146c7d62e" "https://www.pornhub.com/view_video.php?viewkey=ph6141fb2e97bed" "https://www.pornhub.com/view_video.php?viewkey=ph5bc11f2612513" "https://www.pornhub.com/view_video.php?viewkey=ph63cb06f784965" "https://www.pornhub.com/view_video.php?viewkey=ph5f5112c9e841f" "https://www.pornhub.com/view_video.php?viewkey=ph5e34963854a06" "https://www.pornhub.com/view_video.php?viewkey=64fe4c6be2bc5" "https://www.pornhub.com/view_video.php?viewkey=ph5f2452f30b827" "https://www.pornhub.com/view_video.php?viewkey=ph5a5a3c629a7c4" "https://www.pornhub.com/view_video.php?viewkey=ph635869b9163dd" "https://www.pornhub.com/view_video.php?viewkey=ph5e569c696120c" "https://www.pornhub.com/view_video.php?viewkey=ph5cbf58a90c7c9" "https://www.pornhub.com/view_video.php?viewkey=ph5ee2ada9da6f9" "https://www.pornhub.com/view_video.php?viewkey=648cd74a85278" "https://www.pornhub.com/view_video.php?viewkey=6591de7386b01" "https://www.pornhub.com/view_video.php?viewkey=ph62b31d34a5942" "https://www.pornhub.com/view_video.php?viewkey=ph633b17ed09718" "https://www.pornhub.com/view_video.php?viewkey=ph59bb01bb1fed3" "https://www.pornhub.com/view_video.php?viewkey=65b0836377106" "https://www.pornhub.com/view_video.php?viewkey=ph633af617c54f6" "https://www.pornhub.com/view_video.php?viewkey=ph5c1838c938c4e" "https://www.pornhub.com/view_video.php?viewkey=ph61f87983f2f0a" "https://www.pornhub.com/view_video.php?viewkey=ph5d1979e9a8fb4" "https://www.pornhub.com/view_video.php?viewkey=ph625d900cb97ae" "https://www.pornhub.com/view_video.php?viewkey=ph5dbcaf586432d" "https://www.pornhub.com/view_video.php?viewkey=659f36c9649c2" "https://www.pornhub.com/view_video.php?viewkey=ph609be62af1e16" "https://www.pornhub.com/view_video.php?viewkey=ph63af47af4b273"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph5b2a86c6b5d6c" "https://www.pornhub.com/view_video.php?viewkey=ph5d4b375d50144" "https://www.pornhub.com/view_video.php?viewkey=ph5c61e2e096d88" "https://www.pornhub.com/view_video.php?viewkey=ph5d094827d611c" "https://www.pornhub.com/view_video.php?viewkey=ph5c2fb24e3b7e4" "https://www.pornhub.com/view_video.php?viewkey=ph5c75a7837c7c8" "https://www.pornhub.com/view_video.php?viewkey=ph5e5d74948a2d5" "https://www.pornhub.com/view_video.php?viewkey=ph5bfedc7ab18ce" "https://www.pornhub.com/view_video.php?viewkey=ph5e4f09efb5021" "https://www.pornhub.com/view_video.php?viewkey=ph5f6a1ed18ac12" "https://www.pornhub.com/view_video.php?viewkey=ph5e5d74b996637" "https://www.pornhub.com/view_video.php?viewkey=6526daf73ca34" "https://www.pornhub.com/view_video.php?viewkey=ph6279b97a2f8fd" "https://www.pornhub.com/view_video.php?viewkey=ph5edee2ac098a5" "https://www.pornhub.com/view_video.php?viewkey=ph606bb7609d61f" "https://www.pornhub.com/view_video.php?viewkey=ph5d13b3a7e708e" "https://www.pornhub.com/view_video.php?viewkey=ph5cb8b11aefaf5" "https://www.pornhub.com/view_video.php?viewkey=ph5f9af4e6e2103" "https://www.pornhub.com/view_video.php?viewkey=ph5e164d9f68ede" "https://www.pornhub.com/view_video.php?viewkey=ph603468808684a" "https://www.pornhub.com/view_video.php?viewkey=ph5eb9d90de9f79" "https://www.pornhub.com/view_video.php?viewkey=ph5e8dff39e7c27" "https://www.pornhub.com/view_video.php?viewkey=ph5e29db128d131" "https://www.pornhub.com/view_video.php?viewkey=ph604658a44881f" "https://www.pornhub.com/view_video.php?viewkey=ph606b4274b4416" "https://www.pornhub.com/view_video.php?viewkey=ph600eff3a4d702" "https://www.pornhub.com/view_video.php?viewkey=ph62bc860d99f7d" "https://www.pornhub.com/view_video.php?viewkey=6425f8a1acd96" "https://www.pornhub.com/view_video.php?viewkey=ph5f540078ca87f" "https://www.pornhub.com/view_video.php?viewkey=ph5f07801970c5e" "https://www.pornhub.com/view_video.php?viewkey=ph58e34ebd9d775" "https://www.pornhub.com/view_video.php?viewkey=ph5bfc960ad81ba" "https://www.pornhub.com/view_video.php?viewkey=1849749437" "https://www.pornhub.com/view_video.php?viewkey=ph5f2dd33767bb6" "https://www.pornhub.com/view_video.php?viewkey=ph5cdaf7dfc4ccd" "https://www.pornhub.com/view_video.php?viewkey=ph5b3077cd0a0fb" "https://www.pornhub.com/view_video.php?viewkey=ph5abeadbeade1c" "https://www.pornhub.com/view_video.php?viewkey=2025841387" "https://www.pornhub.com/view_video.php?viewkey=ph580b1341c767e" "https://www.pornhub.com/view_video.php?viewkey=ph5bb6703d100c8" "https://www.pornhub.com/view_video.php?viewkey=ph5c9400bee9e6c" "https://www.pornhub.com/view_video.php?viewkey=65baa71b5f433" "https://www.pornhub.com/view_video.php?viewkey=6508b513b4c13" "https://www.pornhub.com/view_video.php?viewkey=64b71a20d618f" "https://www.pornhub.com/view_video.php?viewkey=649281e5c03ca" "https://www.pornhub.com/view_video.php?viewkey=64111ac9ae55d" "https://www.pornhub.com/view_video.php?viewkey=ph6335386d18c6a" "https://www.pornhub.com/view_video.php?viewkey=ph631cf6ceb3f3d" "https://www.pornhub.com/view_video.php?viewkey=ph631cf5a77beb1" "https://www.pornhub.com/view_video.php?viewkey=ph62c5fa5a3debc" "https://www.pornhub.com/view_video.php?viewkey=ph627a9a34f310e"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph63234f2ec6473" "https://www.pornhub.com/view_video.php?viewkey=ph60283b1ecb10d" "https://www.pornhub.com/view_video.php?viewkey=ph60c96c18992a4" "https://www.pornhub.com/view_video.php?viewkey=ph60da9deb77ee9" "https://www.pornhub.com/view_video.php?viewkey=ph5ebbcb5a53ecb" "https://www.pornhub.com/view_video.php?viewkey=63e49f364c095" "https://www.pornhub.com/view_video.php?viewkey=ph5fb74fa09ea7d" "https://www.pornhub.com/view_video.php?viewkey=ph6365d5fdf2dfd" "https://www.pornhub.com/view_video.php?viewkey=ph5e8a7680b0478" "https://www.pornhub.com/view_video.php?viewkey=ph612856e9be725" "https://www.pornhub.com/view_video.php?viewkey=64365356a5f34" "https://www.pornhub.com/view_video.php?viewkey=ph5ec73c5b90b46" "https://www.pornhub.com/view_video.php?viewkey=ph5fd44cde7dba5" "https://www.pornhub.com/view_video.php?viewkey=ph5ea78a2401c42" "https://www.pornhub.com/view_video.php?viewkey=ph5e7d9e6f79221" "https://www.pornhub.com/view_video.php?viewkey=ph62afeaa09cc08" "https://www.pornhub.com/view_video.php?viewkey=ph6034739d103af" "https://www.pornhub.com/view_video.php?viewkey=ph62f69ab2232fe" "https://www.pornhub.com/view_video.php?viewkey=ph63c19dbed466b" "https://www.pornhub.com/view_video.php?viewkey=ph61cf56b878a7e" "https://www.pornhub.com/view_video.php?viewkey=6516eed3567a5" "https://www.pornhub.com/view_video.php?viewkey=ph61f6b813a076d" "https://www.pornhub.com/view_video.php?viewkey=ph62e439b6e761a" "https://www.pornhub.com/view_video.php?viewkey=64fb330cb0dd7" "https://www.pornhub.com/view_video.php?viewkey=ph62a38e6169963" "https://www.pornhub.com/view_video.php?viewkey=ph63ca1d782d040" "https://www.pornhub.com/view_video.php?viewkey=64d64e8bba60f" "https://www.pornhub.com/view_video.php?viewkey=658ec638a9526" "https://www.pornhub.com/view_video.php?viewkey=ph62912317ddcaa" "https://www.pornhub.com/view_video.php?viewkey=645dcefc849e4" "https://www.pornhub.com/view_video.php?viewkey=ph62d215ad33bd7" "https://www.pornhub.com/view_video.php?viewkey=6438720e66be4" "https://www.pornhub.com/view_video.php?viewkey=65cf693412bdf" "https://www.pornhub.com/view_video.php?viewkey=65f254f3644ea" "https://www.pornhub.com/view_video.php?viewkey=ph62c8f6c7b07a6" "https://www.pornhub.com/view_video.php?viewkey=ph5a036546007ec" "https://www.pornhub.com/view_video.php?viewkey=ph6051152fd68b7" "https://www.pornhub.com/view_video.php?viewkey=ph589b342e0727f" "https://www.pornhub.com/view_video.php?viewkey=65ef67588fcdf" "https://www.pornhub.com/view_video.php?viewkey=653b03e30e2bc" "https://www.pornhub.com/view_video.php?viewkey=641b7fd9bb5e8" "https://www.pornhub.com/view_video.php?viewkey=65be7500c7734" "https://www.pornhub.com/view_video.php?viewkey=65ceb74c61005" "https://www.pornhub.com/view_video.php?viewkey=ph636460da44b5b" "https://www.pornhub.com/view_video.php?viewkey=654bca00be917" "https://www.pornhub.com/view_video.php?viewkey=655f855314bc3" "https://www.pornhub.com/view_video.php?viewkey=645011a007886" "https://www.pornhub.com/view_video.php?viewkey=ph639232e44c334" "https://www.pornhub.com/view_video.php?viewkey=ph6226768cd3630" "https://www.pornhub.com/view_video.php?viewkey=ph62bf1bdf88b1a" "https://www.pornhub.com/view_video.php?viewkey=654d191f3f0fd" "https://www.pornhub.com/view_video.php?viewkey=64f1288c81ac8" "https://www.pornhub.com/view_video.php?viewkey=65d00ea2692bc"
+lux "https://www.pornhub.com/view_video.php?viewkey=65dce25a3def0" "https://www.pornhub.com/view_video.php?viewkey=ph63642804d33d5" "https://www.pornhub.com/view_video.php?viewkey=ph62c44cb59e6c3" "https://www.pornhub.com/view_video.php?viewkey=65399bfb55501" "https://www.pornhub.com/view_video.php?viewkey=646c261c35014" "https://www.pornhub.com/view_video.php?viewkey=65a595f57a4b4" "https://www.pornhub.com/view_video.php?viewkey=ph63b9d34be35fd" "https://www.pornhub.com/view_video.php?viewkey=64e65c01e4309" "https://www.pornhub.com/view_video.php?viewkey=ph5fbe68ad8ee92" "https://www.pornhub.com/view_video.php?viewkey=ph5cf700f9624cb" "https://www.pornhub.com/view_video.php?viewkey=64dd5c8834bfd" "https://www.pornhub.com/view_video.php?viewkey=ph62df13174185c" "https://www.pornhub.com/view_video.php?viewkey=ph591939f278653" "https://www.pornhub.com/view_video.php?viewkey=ph59226d1e0f453" "https://www.pornhub.com/view_video.php?viewkey=ph597eb5cd7efb2" "https://www.pornhub.com/view_video.php?viewkey=ph5d07d6498f744" "https://www.pornhub.com/view_video.php?viewkey=ph5cec959482e8e" "https://www.pornhub.com/view_video.php?viewkey=6479ea8b538c0" "https://www.pornhub.com/view_video.php?viewkey=ph621d0f7ea0379" "https://www.pornhub.com/view_video.php?viewkey=644a1e5c07ff2" "https://www.pornhub.com/view_video.php?viewkey=ph6046d37abb46a" "https://www.pornhub.com/view_video.php?viewkey=ph61ad54dae927e" "https://www.pornhub.com/view_video.php?viewkey=650bdb9b422ab" "https://www.pornhub.com/view_video.php?viewkey=ph639b34b011d3d" "https://www.pornhub.com/view_video.php?viewkey=ph60d4b9c1bdb39" "https://www.pornhub.com/view_video.php?viewkey=ph5fb722e609f56" "https://www.pornhub.com/view_video.php?viewkey=679501693" "https://www.pornhub.com/view_video.php?viewkey=ph5b2449aa74156" "https://www.pornhub.com/view_video.php?viewkey=ph5f2385632e785" "https://www.pornhub.com/view_video.php?viewkey=ph607060be28b43" "https://www.pornhub.com/view_video.php?viewkey=ph5bea5a7cef042" "https://www.pornhub.com/view_video.php?viewkey=64dbbee922e25" "https://www.pornhub.com/view_video.php?viewkey=ph610ea774ac408" "https://www.pornhub.com/view_video.php?viewkey=652e8c6d1b781" "https://www.pornhub.com/view_video.php?viewkey=650469c433a2f" "https://www.pornhub.com/view_video.php?viewkey=ph60d099845a836" "https://www.pornhub.com/view_video.php?viewkey=ph63754bc8c2af8" "https://www.pornhub.com/view_video.php?viewkey=ph5dc1029e31923" "https://www.pornhub.com/view_video.php?viewkey=ph5e86560922cad" "https://www.pornhub.com/view_video.php?viewkey=ph5deb2965548a9" "https://www.pornhub.com/view_video.php?viewkey=ph5b9328d8d2415" "https://www.pornhub.com/view_video.php?viewkey=ph5ddda34de28d3" "https://www.pornhub.com/view_video.php?viewkey=ph5e8fe5f7de21b" "https://www.pornhub.com/view_video.php?viewkey=ph61e5d40ed7a1a" "https://www.pornhub.com/view_video.php?viewkey=ph6173135ceadd9" "https://www.pornhub.com/view_video.php?viewkey=ph5f0a7348b8861" "https://www.pornhub.com/view_video.php?viewkey=ph5af8b27ddb1f3" "https://www.pornhub.com/view_video.php?viewkey=ph5b821f6b5d2c4" "https://www.pornhub.com/view_video.php?viewkey=ph5b1df2a430571" "https://www.pornhub.com/view_video.php?viewkey=ph5d34ba73763ba" "https://www.pornhub.com/view_video.php?viewkey=ph5721332a3381f" "https://www.pornhub.com/view_video.php?viewkey=ph5fe93a5c3039c" "https://www.pornhub.com/view_video.php?viewkey=ph5c53afc7723b6" "https://www.pornhub.com/view_video.php?viewkey=ph5a57a28961e19" "https://www.pornhub.com/view_video.php?viewkey=6426d5d828713" "https://www.pornhub.com/view_video.php?viewkey=ph5f39fa47afe3a" "https://www.pornhub.com/view_video.php?viewkey=ph5d12d64e8316f" "https://www.pornhub.com/view_video.php?viewkey=ph5b7638065a2dd" "https://www.pornhub.com/view_video.php?viewkey=ph567a1b895da92" "https://www.pornhub.com/view_video.php?viewkey=ph5c037bc0e9bf2" "https://www.pornhub.com/view_video.php?viewkey=ph58c9f0438282a" "https://www.pornhub.com/view_video.php?viewkey=ph5b481c40db8cf" "https://www.pornhub.com/view_video.php?viewkey=ph566c756419c71" "https://www.pornhub.com/view_video.php?viewkey=ph5d9a9c3172d82" "https://www.pornhub.com/view_video.php?viewkey=6501d57e84b02" "https://www.pornhub.com/view_video.php?viewkey=ph602a170780936" "https://www.pornhub.com/view_video.php?viewkey=ph5f5ef1bf1eede" "https://www.pornhub.com/view_video.php?viewkey=ph59274a1da59c2"
+lux "https://www.pornhub.com/view_video.php?viewkey=ph5ac6509d17366" "https://www.pornhub.com/view_video.php?viewkey=ph5903793ca8b42" "https://www.pornhub.com/view_video.php?viewkey=ph5d352ac7d880e" "https://www.pornhub.com/view_video.php?viewkey=ph627d38a662b8b" "https://www.pornhub.com/view_video.php?viewkey=ph5d7efbe94edd6" "https://www.pornhub.com/view_video.php?viewkey=ph5d0db39f4aff8" "https://www.pornhub.com/view_video.php?viewkey=ph63078235b8312" "https://www.pornhub.com/view_video.php?viewkey=64d4ec0fe4406" "https://www.pornhub.com/view_video.php?viewkey=ph5d5792687ad9c" "https://www.pornhub.com/view_video.php?viewkey=ph5ce8a1a89b05c" "https://www.pornhub.com/view_video.php?viewkey=ph59a96ab542c94" "https://www.pornhub.com/view_video.php?viewkey=ph5bc94f3dbac4e" "https://www.pornhub.com/view_video.php?viewkey=ph5e6467177a5b7" "https://www.pornhub.com/view_video.php?viewkey=ph5cfdb191c153c" "https://www.pornhub.com/view_video.php?viewkey=ph6350384a86cff" "https://www.pornhub.com/view_video.php?viewkey=ph5f4c63dcd01be" "https://www.pornhub.com/view_video.php?viewkey=ph5af64a605f699" "https://www.pornhub.com/view_video.php?viewkey=ph5a208c437019a" "https://www.pornhub.com/view_video.php?viewkey=ph5acfd2c2203e7" "https://www.pornhub.com/view_video.php?viewkey=ph5bad900063a0d" "https://www.pornhub.com/view_video.php?viewkey=ph572a6a25aec77" "https://www.pornhub.com/view_video.php?viewkey=ph5be83a2cef859" "https://www.pornhub.com/view_video.php?viewkey=ph5ec2130d00bc7" "https://www.pornhub.com/view_video.php?viewkey=ph61a90f9fd4620" "https://www.pornhub.com/view_video.php?viewkey=ph5d31304b5f48f" "https://www.pornhub.com/view_video.php?viewkey=ph5c5d1753b681a" "https://www.pornhub.com/view_video.php?viewkey=ph6228eb8fafec6" "https://www.pornhub.com/view_video.php?viewkey=ph5c3aec0f6cb06" "https://www.pornhub.com/view_video.php?viewkey=ph6310c6e113dc1" "https://www.pornhub.com/view_video.php?viewkey=ph59a969b755a83" "https://www.pornhub.com/view_video.php?viewkey=ph5f4c016ca150c" "https://www.pornhub.com/view_video.php?viewkey=63e402a8b7940" "https://www.pornhub.com/view_video.php?viewkey=ph5d579b48ebf96" "https://www.pornhub.com/view_video.php?viewkey=ph6297c79ecb0ed" "https://www.pornhub.com/view_video.php?viewkey=63fe4ad419094" "https://www.pornhub.com/view_video.php?viewkey=ph632880649ab43" "https://www.pornhub.com/view_video.php?viewkey=ph5a60b5cf0c239" "https://www.pornhub.com/view_video.php?viewkey=65662350110a1" "https://www.pornhub.com/view_video.php?viewkey=ph58b4710eecedc" "https://www.pornhub.com/view_video.php?viewkey=ph60595717b0a91" "https://www.pornhub.com/view_video.php?viewkey=ph5e6490cf6fe73" "https://www.pornhub.com/view_video.php?viewkey=ph5dacc05ca6a08" "https://www.pornhub.com/view_video.php?viewkey=ph601785ba643ba" "https://www.pornhub.com/view_video.php?viewkey=ph5cf0965dbc4f6" "https://www.pornhub.com/view_video.php?viewkey=ph5f2f265d27941" "https://www.pornhub.com/view_video.php?viewkey=ph5e48eb8de99e9" "https://www.pornhub.com/view_video.php?viewkey=ph59f1f628ecac5" "https://www.pornhub.com/view_video.php?viewkey=ph5f1500ed764d8" "https://www.pornhub.com/view_video.php?viewkey=ph5d21880c6c840" "https://www.pornhub.com/view_video.php?viewkey=ph586d835a1b080" "https://www.pornhub.com/view_video.php?viewkey=ph62558d7a2d5bc" "https://www.pornhub.com/view_video.php?viewkey=651c8ebef3e7a" "https://www.pornhub.com/view_video.php?viewkey=ph5fbb2c907ab5f" "https://www.pornhub.com/view_video.php?viewkey=ph5ffbd7bf74b6d" "https://www.pornhub.com/view_video.php?viewkey=ph5fa8529644456" "https://www.pornhub.com/view_video.php?viewkey=ph602b573b1cf0c" "https://www.pornhub.com/view_video.php?viewkey=ph5a05bf2a5617b" "https://www.pornhub.com/view_video.php?viewkey=ph5f1d8b796ba5b" "https://www.pornhub.com/view_video.php?viewkey=ph62322e9b2e371" "https://www.pornhub.com/view_video.php?viewkey=ph5abd33ec09766" "https://www.pornhub.com/view_video.php?viewkey=ph617804fa9eefd" "https://www.pornhub.com/view_video.php?viewkey=ph5f70dd1e55075" "https://www.pornhub.com/view_video.php?viewkey=ph5f5da3056072e" "https://www.pornhub.com/view_video.php?viewkey=ph598dbb778c9b3" "https://www.pornhub.com/view_video.php?viewkey=ph5997094ee9ed0" "https://www.pornhub.com/view_video.php?viewkey=ph5fb197040ca0b" "https://www.pornhub.com/view_video.php?viewkey=ph5931b5301cd4c" "https://www.pornhub.com/view_video.php?viewkey=ph5b05d6e97b47a" "https://www.pornhub.com/view_video.php?viewkey=ph5f2eefdad489a" "https://www.pornhub.com/view_video.php?viewkey=6435a5738f691" "https://www.pornhub.com/view_video.php?viewkey=ph607c840074b11" "https://www.pornhub.com/view_video.php?viewkey=ph5edea4890f3a2" "https://www.pornhub.com/view_video.php?viewkey=ph5a205a1b8893a" "https://www.pornhub.com/view_video.php?viewkey=ph59fc7dccc71e5" "https://www.pornhub.com/view_video.php?viewkey=ph602b471c74e31" "https://www.pornhub.com/view_video.php?viewkey=ph5f67af397c8fa" "https://www.pornhub.com/view_video.php?viewkey=ph5f7a816c8bd5a" "https://www.pornhub.com/view_video.php?viewkey=ph618a8b7c6aa7c" "https://www.pornhub.com/view_video.php?viewkey=ph5ae2215d134dd" "https://www.pornhub.com/view_video.php?viewkey=ph5e9df0d798bb6" "https://www.pornhub.com/view_video.php?viewkey=ph5aeb7603a492d" "https://www.pornhub.com/view_video.php?viewkey=ph59f342aaa56de" "https://www.pornhub.com/view_video.php?viewkey=ph5a60bfe23e7f9" "https://www.pornhub.com/view_video.php?viewkey=ph5a341653e4fec" "https://www.pornhub.com/view_video.php?viewkey=ph607353f009d25" "https://www.pornhub.com/view_video.php?viewkey=648b50a71473e" 
+lux "https://www.pornhub.com/view_video.php?viewkey=ph62d57792242d2" "https://www.pornhub.com/view_video.php?viewkey=6447d2acbc599" "https://www.pornhub.com/view_video.php?viewkey=ph5bd18b47c5e2a" "https://www.pornhub.com/view_video.php?viewkey=ph59a9532bd13c8" "https://www.pornhub.com/view_video.php?viewkey=ph5b1a53b390c5d" "https://www.pornhub.com/view_video.php?viewkey=ph5a01afaecd65b" "https://www.pornhub.com/view_video.php?viewkey=ph5b8e592891206" "https://www.pornhub.com/view_video.php?viewkey=ph5c7987335c932" "https://www.pornhub.com/view_video.php?viewkey=ph5b0c0407d1167" "https://www.pornhub.com/view_video.php?viewkey=ph5ad055fb9198c" "https://www.pornhub.com/view_video.php?viewkey=ph5a4c8c5fcd10f" "https://www.pornhub.com/view_video.php?viewkey=ph5fdb3561a4d67" "https://www.pornhub.com/view_video.php?viewkey=ph5b83ef1e8e30d" "https://www.pornhub.com/view_video.php?viewkey=ph5baf0ca7730c4" "https://www.pornhub.com/view_video.php?viewkey=ph5d6648291e463" "https://www.pornhub.com/view_video.php?viewkey=ph5aa8bd1013a7a" "https://www.pornhub.com/view_video.php?viewkey=ph5ba2399b3ca82" "https://www.pornhub.com/view_video.php?viewkey=ph5a4f6fdf3d473" "https://www.pornhub.com/view_video.php?viewkey=ph5a28fcdb77bf9" "https://www.pornhub.com/view_video.php?viewkey=ph5899dc2ab4445" "https://www.pornhub.com/view_video.php?viewkey=ph5b470c16aab82" "https://www.pornhub.com/view_video.php?viewkey=ph59312cb517194" "https://www.pornhub.com/view_video.php?viewkey=ph5a8d8c526528e"
+lux "https://www.pornhub.com/view_video.php?viewkey=653a92c47c57e" "https://www.pornhub.com/view_video.php?viewkey=653a92d6780da" "https://www.pornhub.com/view_video.php?viewkey=653a92d6621af" "https://www.pornhub.com/view_video.php?viewkey=657105f9dde88" "https://www.pornhub.com/view_video.php?viewkey=659589c8125b8" "https://www.pornhub.com/view_video.php?viewkey=653a92c44c0e5" "https://www.pornhub.com/view_video.php?viewkey=652822fc1b31b" "https://www.pornhub.com/view_video.php?viewkey=ph62f5330c15039" "https://www.pornhub.com/view_video.php?viewkey=65e7653c0df03" "https://www.pornhub.com/view_video.php?viewkey=65289fd772351" "https://www.pornhub.com/view_video.php?viewkey=65289fd72eb5f" "https://www.pornhub.com/view_video.php?viewkey=ph625c2b53cb4f8" "https://www.pornhub.com/view_video.php?viewkey=ph6296307f75a66" "https://www.pornhub.com/view_video.php?viewkey=652822fd1b716" "https://www.pornhub.com/view_video.php?viewkey=652822fc61187" "https://www.pornhub.com/view_video.php?viewkey=ph62287a688b051" "https://www.pornhub.com/view_video.php?viewkey=ph61631e04ac709" "https://www.pornhub.com/view_video.php?viewkey=ph63ac3fedc7384" "https://www.pornhub.com/view_video.php?viewkey=652822fd8c3d6" "https://www.pornhub.com/view_video.php?viewkey=65710cb9e2706" "https://www.pornhub.com/view_video.php?viewkey=ph6144bdb25382f" "https://www.pornhub.com/view_video.php?viewkey=65416d5ae1439" "https://www.pornhub.com/view_video.php?viewkey=65289fd6f0539" "https://www.pornhub.com/view_video.php?viewkey=652c0822624f0" "https://www.pornhub.com/view_video.php?viewkey=ph63692f53893f1" "https://www.pornhub.com/view_video.php?viewkey=ph60bf6e694e44b" "https://www.pornhub.com/view_video.php?viewkey=ph633ae84f08d2f" "https://www.pornhub.com/view_video.php?viewkey=652822fbc4941" "https://www.pornhub.com/view_video.php?viewkey=65289fd81427f" "https://www.pornhub.com/view_video.php?viewkey=654ad489878ae" "https://www.pornhub.com/view_video.php?viewkey=ph60c7e352bbf6e" "https://www.pornhub.com/view_video.php?viewkey=ph5ffdf7823993c" "https://www.pornhub.com/view_video.php?viewkey=65289fd7a8151" "https://www.pornhub.com/view_video.php?viewkey=65ef318ad95dc" "https://www.pornhub.com/view_video.php?viewkey=6580dbe7abea9" "https://www.pornhub.com/view_video.php?viewkey=ph5fcf988a301a1" "https://www.pornhub.com/view_video.php?viewkey=ph60d9ddf532656" "https://www.pornhub.com/view_video.php?viewkey=646ca37447d47" "https://www.pornhub.com/view_video.php?viewkey=ph63c81100cfe2f" "https://www.pornhub.com/view_video.php?viewkey=65289fd7476ea" "https://www.pornhub.com/view_video.php?viewkey=ph609fce322382b" "https://www.pornhub.com/view_video.php?viewkey=ph5aa45feeaae80" "https://www.pornhub.com/view_video.php?viewkey=ph60607fbf229e2" "https://www.pornhub.com/view_video.php?viewkey=ph6041575663652" "https://www.pornhub.com/view_video.php?viewkey=ph5f918e441986c" "https://www.pornhub.com/view_video.php?viewkey=ph6183e2252841d" "https://www.pornhub.com/view_video.php?viewkey=ph5d76eb9e738da" "https://www.pornhub.com/view_video.php?viewkey=ph597eb04d87a59" "https://www.pornhub.com/view_video.php?viewkey=ph6050e009bba5e" "https://www.pornhub.com/view_video.php?viewkey=ph6113cfee9b3f4" "https://www.pornhub.com/view_video.php?viewkey=ph5e038928300db" "https://www.pornhub.com/view_video.php?viewkey=ph5e20eca77934e" "https://www.pornhub.com/view_video.php?viewkey=ph5ace580d134f4" "https://www.pornhub.com/view_video.php?viewkey=ph5b4bdda826ef9" "https://www.pornhub.com/view_video.php?viewkey=ph62b09ff168d96" "https://www.pornhub.com/view_video.php?viewkey=ph5d76b0768e8e4" "https://www.pornhub.com/view_video.php?viewkey=ph5da9d8ef94f83" "https://www.pornhub.com/view_video.php?viewkey=ph59b71b63d9595" "https://www.pornhub.com/view_video.php?viewkey=ph5aeb04d47eda8" "https://www.pornhub.com/view_video.php?viewkey=ph5ace063413e19" "https://www.pornhub.com/view_video.php?viewkey=ph59793f2f82690" "https://www.pornhub.com/view_video.php?viewkey=ph63a0812c1c494" "https://www.pornhub.com/view_video.php?viewkey=6580832ff2533" "https://www.pornhub.com/view_video.php?viewkey=6586467e753e0" "https://www.pornhub.com/view_video.php?viewkey=653aa46dc2f98" "https://www.pornhub.com/view_video.php?viewkey=6598abb3b5dfa" "https://www.pornhub.com/view_video.php?viewkey=ph61a9175982195" "https://www.pornhub.com/view_video.php?viewkey=ph5f3f7f561d28f" "https://www.pornhub.com/view_video.php?viewkey=659eaf1b9c82c" "https://www.pornhub.com/view_video.php?viewkey=6566454f92d78" "https://www.pornhub.com/view_video.php?viewkey=ph5d13dcb99396b" "https://www.pornhub.com/view_video.php?viewkey=495651207" "https://www.pornhub.com/view_video.php?viewkey=ph55bbaf36040e0" "https://www.pornhub.com/view_video.php?viewkey=ph59c41be338ea6" "https://www.pornhub.com/view_video.php?viewkey=ph5a09d20d5c51e" "https://www.pornhub.com/view_video.php?viewkey=ph597f712f7c13a" "https://www.pornhub.com/view_video.php?viewkey=64adf53f446d7" "https://www.pornhub.com/view_video.php?viewkey=6477101fc46a8" "https://www.pornhub.com/view_video.php?viewkey=6464a2a716d80" "https://www.pornhub.com/view_video.php?viewkey=63da11754cad9" "https://www.pornhub.com/view_video.php?viewkey=ph5fb49eacddbf4" "https://www.pornhub.com/view_video.php?viewkey=ph6155d9768a7a3" "https://www.pornhub.com/view_video.php?viewkey=ph5eb9cb014caed" "https://www.pornhub.com/view_video.php?viewkey=ph5eb9fe89a7d1f" "https://www.pornhub.com/view_video.php?viewkey=ph5eb9bcf01b83d" "https://www.pornhub.com/view_video.php?viewkey=ph5f05207f666c8" "https://www.pornhub.com/view_video.php?viewkey=ph5eb9aeda755b3" "https://www.pornhub.com/view_video.php?viewkey=65e88a69cc2a2" "https://www.pornhub.com/view_video.php?viewkey=ph5eba046746831" "https://www.pornhub.com/view_video.php?viewkey=ph6077273c35479" "https://www.pornhub.com/view_video.php?viewkey=ph602eba35e2b10" "https://www.pornhub.com/view_video.php?viewkey=ph58acb6d866296" "https://www.pornhub.com/view_video.php?viewkey=ph57572c430998d" "https://www.pornhub.com/view_video.php?viewkey=1787763144" "https://www.pornhub.com/view_video.php?viewkey=2087623989" "https://www.pornhub.com/view_video.php?viewkey=1522382664" "https://www.pornhub.com/view_video.php?viewkey=ph5720f3464d007" "https://www.pornhub.com/view_video.php?viewkey=ph5902273a9c939" "https://www.pornhub.com/view_video.php?viewkey=1526194576" "https://www.pornhub.com/view_video.php?viewkey=ph5840986e0d49a" "https://www.pornhub.com/view_video.php?viewkey=1611981176" "https://www.pornhub.com/view_video.php?viewkey=359016446" "https://www.pornhub.com/view_video.php?viewkey=792556035" "https://www.pornhub.com/view_video.php?viewkey=ph599f4160d7e78" "https://www.pornhub.com/view_video.php?viewkey=ph5a32d4d005eff" "https://www.pornhub.com/view_video.php?viewkey=ph59b1992211054" "https://www.pornhub.com/view_video.php?viewkey=622848671" "https://www.pornhub.com/view_video.php?viewkey=ph5d1649dd2783f" "https://www.pornhub.com/view_video.php?viewkey=921530420" "https://www.pornhub.com/view_video.php?viewkey=ph5aaaadd915613" "https://www.pornhub.com/view_video.php?viewkey=ph5745dee099b85" "https://www.pornhub.com/view_video.php?viewkey=ph55e5d12b41bcc" "https://www.pornhub.com/view_video.php?viewkey=ph58dac51350d78" "https://www.pornhub.com/view_video.php?viewkey=411221290" "https://www.pornhub.com/view_video.php?viewkey=ph5a21a148de967" "https://www.pornhub.com/view_video.php?viewkey=ph55786efd71157" "https://www.pornhub.com/view_video.php?viewkey=ph59552bd9a848e" "https://www.pornhub.com/view_video.php?viewkey=ph5bec97e03ab35" "https://www.pornhub.com/view_video.php?viewkey=ph57feb15493afa" "https://www.pornhub.com/view_video.php?viewkey=ph55d615be5f0df" "https://www.pornhub.com/view_video.php?viewkey=ph5a6113ca2ad69"
+clear
+parent
+clear
+ls
+cd Youtube
+ls
+mkdir "Watch Later"
+cd "Watch Later"
+clear
+lux "https://youtu.be/t9WsVcF-xu4?si=Y4I_DtCOa4SAWWsv" "https://youtu.be/Z8aqBsATezE?si=r2E0x2Lee313ojcJ" "https://youtu.be/ArUZ8DvKqkk?si=OZBDv6BAZ1-b6gQo" "https://youtu.be/J6mcPwTcOeY?si=Ok9Ait45_JDKBviw"
+exit
+test "$?BASH_VERSION" = "0" || eval 'setenv() { export "$1=$2"; }';                setenv PATH "/Applications/Wine Stable.app/Contents/Resources/start/bin:/Applications/Wine Stable.app/Contents/Resources/wine/bin:$PATH"; winehelp --clear

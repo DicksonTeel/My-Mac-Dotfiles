@@ -1,0 +1,1006 @@
+ls-a
+ls -a
+cd /etc
+sudo vim zshrc
+cd~
+cd ~
+vim .zshrc
+exit
+exit
+celar
+clear
+exit
+clear
+celar
+exit
+brew search shox
+brew info sox
+clear
+exit
+exit
+brew search dragon
+brew info draco
+clear
+exit
+vim .zshrc
+vim .zshrc
+exit
+brew search curl
+brew ls
+clear
+exit
+brew update
+brew upgrade
+brew cleanup
+clear
+ranger
+exit
+brew install atuin
+exit
+ech 'eval "$(atuin init zsh)"' >> ~/.zshrc
+echo 'eval "$(atuin init zsh)"' >> ~/.zshrc
+exit
+thread 'main' panicked at atuin/src/command/client/search/interactive.rs:970:35:\
+index out of bounds: the len is 0 but the index is 0\
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+thread 'main' panicked at atuin/src/command/client/search/interactive.rs:970:35:\
+index out of bounds: the len is 0 but the index is 0\
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+exit
+du
+clear
+brew search dust
+brew install dust
+clear
+brew search btop
+brew install btop
+brew uninstall bottom
+btop
+clear
+ls -a
+vim .wezterm.lua
+exit
+pwd
+lux https://dirtyship.com/aftynrose-asmr-nurse-aftyn-takes-care-of-you-video-a/
+clear
+lux "https://cdn10.dirtyship.net/dirtyship/cdn2/Aftynnursev.mp4"
+curl -o "https://cdn10.dirtyship.net/dirtyship/cdn2/Aftynnursev.mp4"
+curl -O "https://cdn10.dirtyship.net/dirtyship/cdn2/Aftynnursev.mp4"
+wget "https://cdn10.dirtyship.net/dirtyship/cdn2/Aftynnursev.mp4"
+ls
+clear
+exit
+brew update
+brew upgrade
+brew cleanup
+clear
+ranger
+ls
+cd ,config
+cd .config
+cd ranger
+ls
+vim rc.conf
+ranger
+clear
+cd ~
+clear
+botp
+btop
+brew ls
+exit
+brew ls
+brew search transmission
+brew install transmission-cli
+exit
+transmission-daemon
+btop
+transmission-remote -a "magnet:?xt=urn:btih:a9cd8c3b9dcad4785db47908ad63d43694432cae&dn=archlinux-2024.02.01-x86_64.iso"
+transmission-remote -l
+transmission-remote -t all -r
+btop
+brew uninstall transmission-cli
+brew install cask transmission
+brew uninstall transmission-cli
+brew cleanup
+clear
+brew install -cask transmission
+brew install --cask transmission
+clear
+brew ls
+exit
+brew uninstall --cask transmission
+brew cleanup
+brew update
+brew upgrade
+brew cleanup
+ranger
+brew reinstall ranger
+ranger
+clear
+pwd
+ls -a
+echo $MYVIMRC
+cd /usr
+ls
+cd share
+ls
+cd vim
+ls
+sudo vim vimrc
+cd~
+cd ~
+pwd
+ls -a
+vim .vim
+cd .vim
+ls
+ls -a
+cd ~
+vim .vimrc
+ls -a
+exit
+ls
+ls -a
+vim .wezterm.lua
+exit
+ls -a
+vim .zshrc
+exit
+vim .wezterm.lua
+clear
+reload
+exit
+brew ls
+exit
+brew ls
+brew search tmux
+brew install tmux
+ssh 100.70.247.147
+exit
+nix-env --uninstall bottom
+nix --uninstall bottom
+exit
+ssh 100.70.247.147
+exit
+vim .zshrc
+brew ls
+sh <(curl -L https://nixos.org/nix/install)
+nix-env
+clear
+brew ls
+exit
+ssh 100.70.247.147
+clear
+ssh 100.70.247.147
+clear
+ssh 100.70.247.147
+exit
+exit
+ping 1.1.1.1
+exit
+botp
+btop
+exit
+brew update
+brew upgrade
+brew cleanup
+clear
+exit
+brew ls
+exit
+ranger
+cd
+ls
+ls -a
+cd .congif
+cd .congif
+cd .config
+ls -a
+cd atuin
+ls
+vim config.toml
+exit
+brew ls
+exit
+exit
+open https://www.twitch.tv/ayuuchii
+clear
+brew update
+brew upgrade
+brew cleanup
+exit
+cd plugins
+ls
+cd ranger-archives
+ls
+exit
+ipconfig getifaddr
+ipconfig getifaddr en1
+ipconfig getifaddr en0
+ls
+ls
+ls
+exit
+git
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+clear
+cd Desktop
+ls
+brew ls
+gh
+net-test
+exit
+cd Desktop
+home
+update
+visual
+exit
+brew search zsh
+exit
+cd Desktop
+home ls
+home && ls
+exit
+ls -al /var/log/*.out
+echo <password>
+cleanup
+ls
+cd .ssh
+ls
+home
+exit
+cd ~
+ls -a
+vim .zshrc
+exit
+ls
+cd ~/.conf
+cd ~/.config
+ls
+cd neofetch
+ls
+vim config.conf
+exit
+cd ~/.config
+ls
+cd ranger
+ls
+vim rc.conf
+ls
+vim scope.sh
+cd .config
+cd ~/.config
+ls
+cd btop
+ls
+vim btop.conf
+cd .vim
+ls
+ls -a
+cd ~
+cd .config
+ls
+cd atuin
+ls
+vim config.toml
+cd .config
+cd neofetch
+ls
+vim config.conf
+exit
+brew ls
+brew search zellij
+brew uninstall tmux
+cleanup
+brew install zellij
+clear
+brew ls
+zellij -version
+zellij --version
+clear
+ranger
+clear
+ls
+vim .zshrc
+clear
+exit
+ssh 100.70.247.147
+exit
+ssh 100.70.247.147
+exit
+ssh 100.70.247.147
+exit
+ls -a
+vim .wezterm.lua
+ssh 100.70.247.147
+exit
+ssh 100.70.247.147
+exit
+home
+update
+clear
+ls
+vim .zshrc
+vim .zshrc
+exit
+ssh 100.70.247.147
+exit
+ssh Mackbook
+ssh Macbook
+exit
+brew ls
+brew uninstall zellij
+ssh macbook
+ssh Macbook
+clear
+ls
+cd .vim
+ls
+home
+clear
+vim .vimrc
+ls
+clear
+brew search markdown
+clear
+exit
+home
+clear
+update
+clear
+exit
+brew ls
+home
+vim .wezterm.lua
+brew ls
+clear
+ls
+cd .vim
+ls
+clear
+open
+clear
+ls
+home
+ls
+cd .ssh
+ls
+vim config
+exit
+home
+cd .ssh
+ls
+cd .config
+home
+ls
+vim .zshrc
+exit
+ssh 100.70.247.147
+exit
+ssh 100.70.247.147
+exit
+ssh macbook
+exit
+ls
+cd .vim
+ls
+home
+cd .config
+ls
+home
+ls
+vim .vimrc
+celar
+clear
+ls
+exit
+clear
+ls
+vim .zshrc
+clear
+update
+clear
+time
+clear
+df
+clear
+ls
+cd .zsh
+ls
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+ls
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+home
+clear
+ls
+df -h
+du -h
+clear
+ls
+df
+clear
+echo $ZSH_VERSION
+brew search zsh
+brew install zsh-autosuggestions
+brew install zsh-syntax-highlighting
+ls
+cd .zsh
+ls
+brew uninstall zsh-syntax-highlighting
+l
+ls
+brew uninstall zsh-autosuggestions
+clear
+update
+home
+clear
+clear
+update
+cleanup
+clear
+brew search hiddenbar
+brew install --cask hiddenbar
+update
+clear
+exit
+exit
+brew ls
+brew search warp
+ls
+default write com.apple.screencapture location ~/Pictures
+write com.apple.screencapture location ~/Pictures
+clear
+ls 
+clear
+ps
+curl wttr.in
+clear
+curl wttr.in/Baltimore
+clear
+tracerout
+traceroute
+cd .config
+ls
+home
+cd .zsh
+ls
+home
+brew install mtr
+clear
+exit
+exit
+mtr 1.1.1.1
+mtr
+brew ls
+man mtr
+mtr 1.1.1.1
+brew ls
+sudo
+clear
+sudo mtr 1.1.1.1
+man mtr
+cd /usr.local/Cellar/mtr
+cd /usr/local/Cellar/mtr
+ls
+cd 0.95
+ls
+cd sbin
+ls
+cp mtr /usr/local/bin
+clear
+home
+nettest
+exit
+nettest
+exit
+nettest
+sudo mtr 1.1.1.1
+sudo mtr google.com
+brew uninstall mtr
+cd /usr/local/bin
+ls
+sudo rm mtr
+ls
+exit
+brew search dice
+clea
+clear
+exit
+vim .zshrc
+exit
+ls
+cd .config
+ls
+vim apps.txt
+vim brewApps.txt
+ls
+vim brewApps.txt
+exit
+cd .config
+ls
+vim brewApps.txt
+clear
+ls
+xargs brew install < brewFormulae.txt
+clear
+xargs brew install < brewFormulae.txt
+ls
+vim brewFormulae.txt
+clear
+exit
+clear
+brew search zsh
+brew info
+brew
+brew config
+clear
+brew search zsh
+brew info zsh-navigation-tools
+clear
+brew search bat
+celar
+clear
+ls
+vim .zshrc
+xargs brew install < brewApps.txt
+cd .config
+ls
+xargs brew install < brewApps.txt
+ls
+vim brewFormulae.txt
+clear
+ls
+vim brewFormulae.txt
+ls
+home
+ls
+vim .zshrc
+exit
+brew ls
+traceroute 1.1.1.1
+traceroute -h 1.1.1.1
+brew uninstall mtr
+exit
+ls
+bat .zshrc
+vim .zshrc
+clear
+bat .zshrc
+brew search roll
+brew info roll
+cat .zshrc
+cd /usr/local/bin\
+wget https://raw.githubusercontent.com/rodneydup/roll/master/roll\
+chmod +x roll
+exit
+clear
+roll 3d10
+clear
+ls
+clear
+clear
+ls
+cd .config
+ls
+vim brewFormulae.txt
+brew install powerlevel10k
+exit
+clear
+ls
+vim .zshrc
+exit
+ls
+vim .zshrc
+p10k config
+p10k configure
+brew ls
+clear
+cd .config
+ls
+cat brewFormulae.txt
+home
+ls
+cat .zshrc
+exit
+clear
+ls
+ls -l
+ls
+clear
+clear
+exit
+exit
+clear
+vim .zshrc
+clear
+exit
+ls
+vim .zshrc
+p10k config
+p10k configure
+clear
+ls
+cat .p10k.zsh
+bat .p10k.zsh
+brew info starship
+clear
+ls
+cat .p10k.zsh
+cat .p10k.zsh
+clear
+brew search warp
+brew install --cask warp
+update
+clear
+cat .p10k.zsh
+clear
+vim .p10k.zsh
+clear
+vim .p10k.zsh
+clear
+clear
+ls
+vim .p10k.zsh
+exit
+clear
+ls
+cat .p10k.zsh
+exit
+clear
+cat .p10k.zsh
+clear
+cat .p10k.zsh
+clear
+clear
+ls
+cd .zsh
+ls
+home
+p10k configure
+clear
+p10k configure
+clear
+ls
+clear
+clear
+vim .zshrc
+mv .wezterm.lua ~/.config/wezterm/
+mv .wezterm.lua ~/.config/wezterm/
+ln -sf ~/.config/wezterm/.wezterm.lua ~/
+mv .zshrc ~/.config/zsh/
+ln -sf ~/.config/zsh/.zshrc ~/
+mv .zsh_history ~/.config/zsh/
+ln -sf ~/.config/zsh/.zsh_history ~/
+mv .zsh_sessions ~/.config/zsh/
+ln -sf ~/.config/zsh/.zsh_sessions ~/
+mv .p10k.zsh ~/.config/zsh/
+ln -sf ~/.config/zsh/.p10k.zsh ~/
+clear
+rmdir .zsh
+sudo rmdir .zsh
+clear
+mv .ssh ~/.config/
+ln -sf ~/.config/.ssh ~/
+clear
+cd /usr/local/share
+ls
+mv zsh-autosuggestions ~/.config/zsh/plugins
+ln -sf ~/.config/zsh/plugins/zsh-autosuggestions usr/lo/share
+ln -sf ~/.config/zsh/plugins/zsh-autosuggestions usr/local/share
+ls
+ln -sf ~/.config/zsh/plugins/zsh-autosuggestions /usr/local/share
+mv zsh-syntax-highlighting ~/.config/zsh/plugins
+ln -sf ~/.config/zsh/plugins/zsh-syntax-highlighting /usr/local/share
+ls
+ls -l
+clear
+ls
+mv powerlevel10k ~/.config/zsh/plugins
+ln -sf ~/.config/zsh/plugins/powerlevel10k /usr/local/share
+ls
+ls -l
+clear
+exit
+clear
+cat .zshrc
+ls
+clear
+ls
+ls -l
+clear
+ls
+cd .zsh
+ls
+clear
+ls
+home
+clear
+ls
+clear
+ls
+clear
+ls -l
+clear
+ls
+clear
+ls
+ls -l
+clear
+ls
+clear
+ls -l
+clear
+ls
+clear
+ls
+clear
+ls
+cd .config
+ls
+mkdir SSH
+ls
+rmdir SSH
+mkdir ssh
+ls
+home
+rmdir ssh
+clear
+cd .config
+rmdir ssh
+clear
+ls
+home
+clear
+ls
+clear
+ls
+ls -l
+clear
+cd .config
+ls
+cd zsh
+ls
+clear
+ls
+mkdir plugins
+cd plugins
+ls
+ls
+ls
+ls -l
+clear
+home
+vim .zshrc
+exit
+bat .zshrc
+exit
+cd .config/zsh
+ls
+vim .zshrc
+exit
+exit
+exir
+exit
+cd /usr/local/share
+ls
+ls -l
+rmdir zsh-autosuggestions
+rm zsh-autosuggestions
+rm zsh-syntax-highlighting
+rm powerlevel10k
+clear
+home
+cd .config
+ls
+xargs brew install < brewFormulae.txt
+xargs brew reinstall < brewFormulae.txt
+exit
+cd .config/zsh
+vim .zshrc
+exit
+nettest
+exit
+nettest
+exit
+cd .config
+vim brewApps.txt
+exit
+ls
+cd plugins
+ls
+home
+clear
+update
+clear
+update
+cleanup
+clear
+brew ls
+brew uninstall --cask warp
+clear
+ls
+cd .config
+ls
+vim brewFormulae.txt
+exit
+homw
+home
+clear
+brew search affinity
+brew search audio
+brew info audiopfile
+brew info audiofile
+brew search battery
+brew search dante
+brew info dante
+brew search resolve
+brew search steinberg
+brew search honey
+brew search iLok
+brew search mti
+brew search drive
+brew search qlab
+brew search remote
+brew search sound
+brew info soundtoys
+brew search steam
+brew search tail
+brew search yamaha
+clear
+nettest
+clear
+vim .zshrc
+brew search trello
+clear
+vim .zshrc
+nettest
+vim .zshrc
+nettest
+vim .zshrc
+vim .zshrc
+exit
+exit
+ls
+ls
+exit
+ffmpeg -i "Randy Feltface: Feltopia (Full Comendy Special).webm" "Randy Feltface - Feltopia.mp4"
+quit
+exit
+brew info wifiman
+df
+cd .config
+ls
+exit
+cd .config
+ls
+home
+vim .zshrc
+cd .config
+vim brewFormulae.txt
+cd .config
+vim brewApps.txt
+l
+ls
+vim .zshrc
+clear
+vim newMacInstall.sh
+ls
+brew ls
+update
+cd /Volumes/"Glyph 2TB"/"My Library"/Video
+ls
+ffmpeg
+ffmpeg -i "Randy Felface - Feltopia.webm" RF-Feltopia.mp4
+ffmpeg -i RandyFeltface-Feltopia.webm RandyFeltface-Feltopia.mp4
+exit
+clear
+cd Desktop
+clear
+home
+ls
+cd Downloads
+ls
+update
+cd /Volumes/"Glyph 2TB"/"My Library"/Video/Youtube/"No Rolles Barred"
+home
+vim .zshrc
+exit
+pwd
+ls
+clear
+ls
+clear
+cat .zshrc
+clear
+cls
+clear
+ls
+cat newMacInstall.sh
+clear
+brew search zsh
+clear
+exit
+home
+brew bundle dump -describe
+ls
+brew bundle dump --describe
+ls
+vim Brewfile
+cd .config
+ls
+vim brewApps.txt
+home
+clear
+ls
+vim .zshrc
+vim brewFormulae.txt
+vim brewApps.txt
+vim brewFormulae.txt
+home
+cd .config
+clear
+vim Brewfile
+clear
+cat .zshrc
+exit
+ls
+ls
+exit
+update
+cleanup
+ls
+exit
+ls
+vim .zsh_initCommands
+vim zsh_initCommands
+exit
+cd .config
+ls
+rm brewApps.txt && rm brewFormulae.txt
+ls
+clear
+ls
+gh repo clone DicksonTeel/My-Mac-Dotfiles
+git clone https://github.com/DicksonTeel/My-Mac-Dotfiles.git
+curl -o ~/Downloads https://raw.githubusercontent.com/DicksonTeel/My-Mac-Dotfiles/main/Brewfile
+curl -o ~/Downloads/Brewfile https://github.com/DicksonTeel/My-Mac-Dotfiles/blob/main/Brewfile
+cd ~/Downloads
+cat newMacInstall.sh
+cat Brewfile
+cd ~/.config
+l
+ls
+cd zsh
+ls
+vim .zsh_aliases
+vim zsh_aliases
+vim zsh_plugs
+ls
+clear
+ls
+home
+cd .config
+ls
+xargs brew install < Brewfile
+clear
+cd .ssh
+cat known_hosts
+ssh macbook
+clear
+cat config
+exit
+cd zsh
+ls
+vim .zshrc
+vim .zshrc
+exit
+ls
+home
+ls
+vim newMacInstall.sh
+vim newMacInstall.sh
+exit
+cat wezterm.lua
+exit
