@@ -1,21 +1,41 @@
+# System services
 alias top="btop"
 alias htop="btop"
 alias btm="btop"
-alias cat="bat"
-alias update="brew update && brew upgrade && brew cleanup && mas outdated && mas upgrade"
+alias icloud_sync_status="brctl status com.apple.CloudDocs"
+# File system navigation
 alias ls="ls -alh"
 alias home="cd ~"
-alias net_test='ping -c 10 1.1.1.1 && echo " " && traceroute 1.1.1.1 && echo " " && speedtest'
-alias cleanup="brew cleanup && sudo periodic daily weekly monthly"
-alias clear="clear && neofetch"
-alias df="df -h"
-alias symlink="ln -sf"
+alias trash="cd ~/.Trash"
+alias icloud="cd /Users/dicksonteel/Library/Mobile\ Documents/com~apple~CloudDocs"
+alias gitgod="cd ~/GitGod"
+alias dotfiles="cd ~/GitGod/My-Mac-Dotfiles"
 alias parent="cd .."
-alias vi="nvim"
-alias vim="nvim"
+# File interactions
+alias touch="nvim"
+alias cat="bat"
+alias df="df -h"
 alias zip="7z a -m0=lzma2 -mx9"
 alias unzip="7z x"
-alias icloud="cd /Users/dicksonteel/Library/Mobile\ Documents/com~apple~CloudDocs"
-alias icloud_sync_status="brctl status com.apple.CloudDocs"
+alias symlink="ln -sf"
+# Github CLI specific aliases
+alias gh_login="gh auth login -w"
+alias gh_list="gh repo list"
+alias gh_create="gh repo create"
+alias gh_clone="gh repo clone"
+alias FIRE='gh fire "Emergency git save"'
+# Git specific aliases
+alias gclone="git clone"
+alias gadd="git add -i"
+alias gpush="git commit && git push"
+alias gpull="git pull"
+alias gfork="git fork"
+alias gstats="git status"
+alias gout="git checkout"
+# Other customized commands
+alias clear="clear && neofetch"
+alias net_test='ping -c 10 1.1.1.1 && echo " " && traceroute 1.1.1.1 && echo " " && speedtest'
+alias update="brew update && brew upgrade && brew cleanup && mas outdated && mas upgrade"
+alias cleanup="brew cleanup && sudo periodic daily weekly monthly"
 alias ytdl="yt-dlp"
 
