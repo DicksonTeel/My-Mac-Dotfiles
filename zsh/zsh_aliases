@@ -12,7 +12,7 @@ alias gitgod="cd ~/GitGod"
 alias dotfiles="cd ~/GitGod/My-Mac-Dotfiles"
 alias parent="cd .."
 # File interactions
-alias touch="nvim"
+# alias touch=""
 alias cat="bat"
 alias df="df -h"
 alias zip="7z a -m0=lzma2 -mx9"
@@ -38,4 +38,3 @@ alias net_test='ping -c 10 1.1.1.1 && echo " " && traceroute 1.1.1.1 && echo " "
 alias update="brew update && brew upgrade && brew cleanup && mas outdated && mas upgrade"
 alias cleanup="brew cleanup && sudo periodic daily weekly monthly"
 alias ytdl="yt-dlp"
-
