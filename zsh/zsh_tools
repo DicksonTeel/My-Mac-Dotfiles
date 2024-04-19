@@ -1,0 +1,4 @@
+# Set Jetbrains Fleet as the default editor
+# Would like to perhaps be able to specify that Jetbrains Writerside should be the default editor specifically for Markdown files
+
+export EDITOR="/Applications/Fleet.app/Contents/MacOS/Fleet"
