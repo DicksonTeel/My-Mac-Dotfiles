@@ -13,7 +13,6 @@ alias dotfiles="cd ~/GitGod/My-Mac-Dotfiles"
 alias notes="cd ~/GitGod/My-Notes"
 alias parent="cd .."
 # File interactions
-# alias touch=""
 alias cat="bat"
 alias df="df -h"
 alias zip="7z a -m0=lzma2 -mx9"
