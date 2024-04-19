@@ -11,9 +11,6 @@ source ~/.config/zsh/zsh_initCommands
 # Aliases
 source ~/.config/zsh/zsh_aliases
 
-# External Tools
-# source ~/.config/zsh/zsh_tools
-
 # Plugins
 source ~/.config/zsh/zsh_plugs
 
