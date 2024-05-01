@@ -15,9 +15,9 @@
     "memory",
     "disk",
     "separator",
+    "wifi",
     "localip",
     "publicip",
-    "wifi",
     "separator",
     "weather"
   ]
