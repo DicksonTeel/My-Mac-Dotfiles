@@ -17,8 +17,6 @@
     "separator",
     "wifi",
     "localip",
-    "publicip",
-    "separator",
-    "weather"
+    "publicip"
   ]
 }

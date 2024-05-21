@@ -11,7 +11,7 @@ alias icloud="cd /Users/dicksonteel/Library/Mobile\ Documents/com~apple~CloudDoc
 alias gitgod="cd ~/GitGod"
 alias dotfiles="cd ~/GitGod/My-Mac-Dotfiles"
 alias notes="cd ~/GitGod/My-Notes"
-alias parent="cd .."
+alias ..="cd .."
 # File interactions
 alias cat="bat"
 alias df="df -h"
