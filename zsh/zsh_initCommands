@@ -1,2 +1,2 @@
 eval "$(atuin init zsh)"
-fastfetch
+fastfetch -l none
