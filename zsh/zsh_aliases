@@ -34,7 +34,7 @@ alias gstats="git status"
 alias gout="git checkout"
 # Other customized commands
 alias clear="clear && fastfetch -l none"
-alias net_test='ping -c 10 1.1.1.1 && echo " " && traceroute 1.1.1.1 && echo " " && speedtest'
+alias net_test='ping -c 10 1.1.1.1 && echo " " && DNSLeakTest && echo " " && traceroute 1.1.1.1 && echo " " && speedtest'
 alias update="brew update && brew upgrade && brew cleanup && mas outdated && mas upgrade"
 alias cleanup="brew cleanup && sudo periodic daily weekly monthly"
 alias weather="curl wttr.in"
