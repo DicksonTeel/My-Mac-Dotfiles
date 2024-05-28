@@ -1,7 +1,7 @@
 -- Pull in the wezterm API
 local wezterm = require 'wezterm'
-local mux = wezterm.mux
-local act = wezterm.action
+-- local mux = wezterm.mux
+-- local act = wezterm.action
 
 -- This table will hold the configuration.
 local config = {}
@@ -12,12 +12,14 @@ if wezterm.config_builder then
   config = wezterm.config_builder()
 end
 
--- This is where you actually apply your config choices
-config.color_scheme = 'ENCOM'
+-- Set config choices
+-- config.color_scheme = 'ENCOM'
+-- config.color_scheme = 'Breath Darker(Gogh)'
+config.color_scheme = 'Apple System Colors'
 config.font = wezterm.font ('Jetbrains Mono', {})
 config.font_size = 14.0
 config.automatically_reload_config = true
 config.hide_tab_bar_if_only_one_tab = true
 
--- and finally, return the configuration to wezterm
+-- Return the config
 return config

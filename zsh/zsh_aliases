@@ -1,7 +1,9 @@
 # System services
+alias resource="source ~/.zshrc"
 alias top="btop"
 alias htop="btop"
 alias btm="btop"
+alias ssh="wezterm ssh"
 alias icloud_sync_status="brctl status com.apple.CloudDocs"
 # File system navigation
 alias ls="eza -lah --time-style=+%c -s=type --git --git-repos --group-directories-first --color=always --icons=always --no-user"
@@ -11,6 +13,7 @@ alias icloud="cd /Users/dicksonteel/Library/Mobile\ Documents/com~apple~CloudDoc
 alias gitgod="cd ~/GitGod"
 alias dotfiles="cd ~/GitGod/My-Mac-Dotfiles"
 alias notes="cd ~/GitGod/My-Notes"
+alias config="cd ~/.config"
 alias ..="cd .."
 # File interactions
 alias cat="bat"
@@ -18,6 +21,9 @@ alias df="df -h"
 alias zip="7z a -m0=lzma2 -mx9"
 alias unzip="7z x"
 alias symlink="ln -sf"
+alias vi="nvim"
+alias vim="nvim"
+alias edit="nvim"
 # Github CLI specific aliases
 alias gh_login="gh auth login -w"
 alias gh_list="gh repo list"

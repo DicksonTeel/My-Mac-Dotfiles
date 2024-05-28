@@ -19,7 +19,7 @@ ssh_only = true
 
 [username]
 disabled = false
-show_always = true
+show_always = false
 
 [git_branch]
 disabled = false
