@@ -5,6 +5,7 @@ alias htop="btop"
 alias btm="btop"
 alias ssh="wezterm ssh"
 alias icloud_sync_status="brctl status com.apple.CloudDocs"
+
 # File system navigation
 alias ls="eza -lah --time-style=+%c -s=type --git --git-repos --group-directories-first --color=always --icons=always --no-user"
 alias home="cd ~"
@@ -15,21 +16,22 @@ alias dotfiles="cd ~/GitGod/My-Mac-Dotfiles"
 alias notes="cd ~/GitGod/My-Notes"
 alias config="cd ~/.config"
 alias ..="cd .."
+
 # File interactions
 alias cat="bat"
 alias df="df -h"
 alias zip="7z a -m0=lzma2 -mx9"
 alias unzip="7z x"
 alias symlink="ln -sf"
-alias vi="nvim"
-alias vim="nvim"
 alias edit="nvim"
+
 # Github CLI specific aliases
 alias gh_login="gh auth login -w"
 alias gh_list="gh repo list"
 alias gh_create="gh repo create"
 alias gh_clone="gh repo clone"
 alias FIRE='gh fire "Emergency git save"'
+
 # Git specific aliases
 alias gclone="git clone"
 alias gadd="git add -i"
@@ -38,6 +40,7 @@ alias gpull="git pull"
 alias gfork="git fork"
 alias gstats="git status"
 alias gout="git checkout"
+
 # Other customized commands
 alias clear="clear && fastfetch -l none"
 alias net_test='ping -c 10 1.1.1.1 && echo " " && DNSLeakTest && echo " " && traceroute 1.1.1.1 && echo " " && speedtest'
@@ -45,4 +48,3 @@ alias update="brew update && brew upgrade && brew cleanup && mas outdated && mas
 alias cleanup="brew cleanup && sudo periodic daily weekly monthly"
 alias weather="curl wttr.in"
 alias ytdl="yt-dlp"
-
