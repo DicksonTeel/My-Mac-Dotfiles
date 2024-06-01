@@ -48,3 +48,4 @@ alias update="brew update && brew upgrade && brew cleanup && mas outdated && mas
 alias cleanup="brew cleanup && sudo periodic daily weekly monthly"
 alias weather="curl wttr.in"
 alias ytdl="yt-dlp"
+alias convert="ffmpeg -i"
