@@ -1,0 +1,8 @@
+conCat() {
+	file_ext="${1##*.}"
+	if [[ "$file_ext" == "md" ]]; then
+		glow "$1"
+	else
+		bat "$1"
+	fi
+}

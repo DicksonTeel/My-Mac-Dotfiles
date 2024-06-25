@@ -18,7 +18,7 @@ alias config="cd ~/.config"
 alias ..="cd .."
 
 # File interactions
-alias cat="bat"
+alias cat="conCat"
 alias df="df -h"
 alias zip="7z a -m0=lzma2 -mx9"
 alias unzip="7z x"
